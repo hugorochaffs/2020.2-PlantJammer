@@ -7,9 +7,19 @@ assignees: ''
 
 ---
 
-name: ‘’
-assignees: ‘’
-labels: ‘’
-descriptions: ’’
--[ ] check 1
--[ ] check 2
+---
+*Descrição:*
+
+
+*Critérios de Aceitação:*
+
+*Tarefas:*
+
+- [ ] Check1
+- [ ] Check2
+- [ ] Check3
+
+Assignees:
+
+Labels:
+---
