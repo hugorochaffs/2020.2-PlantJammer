@@ -1,25 +1,7 @@
 ---
-name: Modelo de Issue
-about: Propósito da Issue
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-*Descrição:*
-
-
-*Critérios de Aceitação:*
-
-*Tarefas:*
-
-- [ ] Check1
-- [ ] Check2
-- [ ] Check3
-
-Assignees:
-
-Labels:
+name: Rastreando problema
+about: Use este modelo para rastrear novos recursos.
+title: "[DATE]: [FEATURE NAME]"
+labels: rastreando problema, precisa de triagem
+assignees: octocat
 ---
