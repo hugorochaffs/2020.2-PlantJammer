@@ -1,0 +1,59 @@
+:root {
+  --main-color:#edc834;
+  --secondary-color: #3e8a7a;
+}
+
+.ready {
+  font-family: "Lato", sans-serif;
+}
+
+.github-corner {
+  display: none;
+}
+
+/* Markdown style */
+.anchor,
+.markdown-section a {
+  color: var(--secondary-color) !important;
+}
+
+.markdown-section blockquote{
+  border-left: 4px solid var(--main-color);
+}
+
+/* Sidebar style */
+.sidebar {
+  background-color: rgba(0, 0, 0, 0.07);
+  border: none;
+}
+
+.sidebar img {
+  width: 25%;
+}
+
+.sidebar ul li.active > a {
+  text-decoration: none;
+  color: var(--main-color) !important;
+}
+
+.sidebar ul li > a {
+  font-size: 1rem;
+}
+
+.sidebar-toggle-button > span {
+  background-color: var(--main-color) !important;
+}
+
+/* Coverpage style */
+.show {
+  background: none !important;
+}
+
+.cover-main {
+  background: none;
+}
+
+.cover-image {
+  max-width: 15%;
+  max-height: 15%;
+}
