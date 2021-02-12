@@ -1,5 +1,12 @@
-# Como criar e adicionar novos documentos na documentação
+### Histórico de Versão
+|    Data    | Versão | Descrição            | Autor(es)       |
+| :--------: | :----: | :------------------: | :-------------: |
+| 12/02/2021 |  0.1   | Criação do documento | Durval Carvalho |
 
+
+<div align="justify">
+
+# Como criar e adicionar novos documentos na documentação
 
 Esse tutuorial tem como objetivo explicar o passo a passo para adicionar um novo documento na documentação do projeto.
 
@@ -100,3 +107,4 @@ Existem outras maneiras de escrever o sidebar. Para mais informação consulte a
 Com essas informações, você já conhece o mínimo necessário para criar novos documentos. O Docsify é uma ferramenta bastante simples e flexível. É possível extender suas funcionalidades por meio de plugins que a comunidade produz. Para mais informações acesse a [documentação oficial do docsify](https://docsify.js.org/).
 
 
+</div>
