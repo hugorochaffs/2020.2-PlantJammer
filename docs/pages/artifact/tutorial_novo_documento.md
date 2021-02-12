@@ -1,14 +1,13 @@
-### Histórico de Versão
-|    Data    | Versão | Descrição            | Autor(es)       |
-| :--------: | :----: | :------------------: | :-------------: |
-| 12/02/2021 |  0.1   | Criação do documento | Durval Carvalho |
-
-
 <div align="justify">
 
 # Como criar e adicionar novos documentos na documentação
 
 Esse tutuorial tem como objetivo explicar o passo a passo para adicionar um novo documento na documentação do projeto.
+
+### Histórico de Versão
+|    Data    | Versão | Descrição            | Autor(es)       |
+| :--------: | :----: | :------------------: | :-------------: |
+| 12/02/2021 |  0.1   | Criação do documento | Durval Carvalho |
 
 ## Configuração de ambiente
 

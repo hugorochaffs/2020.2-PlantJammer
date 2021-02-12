@@ -3,7 +3,7 @@
   - [Planejamento do projeto](./pages/base/planejamento_projeto.md)
 
 - Tutoriais
-  - [Como criar novos documentos](./pages/artifact/tutoriais_novo-documento.md)
+  - [Como criar novos documentos](./pages/artifact/tutorial_novo_documento.md)
 
-- Artefatos
+- Pré-elicitação
   - [Rich picture](./pages/artifact/rich_picture.md)
