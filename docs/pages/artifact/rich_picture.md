@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 09/02/2021 |  0.1   | Criação do documento | Durval Carvalho |
+| 12/02/2021 |  0.2   | Adição rich picture do Plant Jammer | Leonardo Gomes |
 
 <div align="justify">
 
@@ -29,7 +30,7 @@ Todo `rich picture` deve possuir ao menos alguns dos seguintes componentes.
 | Bordas do sistema | As bordas do sistema são delimitações da atuação do próprio sistema. O sistema possui um conjunto de operações, tabelas e fluxos, que potencialmente interage com outros sistemas e atores. As bordas servem para delimitar até onde é interno do sistema e onde é externo ao sistema. São geralmente representados por um "núvem" que envolve tudo que o sistema faz. |
 
 <p align='center'>
-    <img src='docs/_media/images/rich-picture-example.png'>
+    <img src='../../assets/images/rich-picture-example.png'>
     <figcaption align='center'>
         <b>Figura 1: Exemplo de rich picture</b>
     </figcaption>
@@ -56,6 +57,14 @@ Visando ajudar os interessados a compreender os principais atores, ações, os d
 
 ## 3. Rich Picture
 
+<div align='center'>
+    <a href='assets/images/rich_picture.png' target='_blank'>
+        <img src='assets/images/rich_picture.png'>
+    </a>
+    <figcaption align='center'>
+      <b>Figura 2: rich picture do Plant Jammer</b>
+    </figcaption>
+</div>
 
 
 ## Bibliografia

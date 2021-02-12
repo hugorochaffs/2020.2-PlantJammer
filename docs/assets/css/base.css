@@ -21,6 +21,10 @@
   border-left: 4px solid var(--main-color);
 }
 
+.markdown-section tr:nth-child(2n) {
+  background: none;
+}
+
 /* Sidebar style */
 .sidebar {
   background-color: rgba(0, 0, 0, 0.07);
