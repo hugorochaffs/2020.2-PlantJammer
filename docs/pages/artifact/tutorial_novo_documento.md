@@ -8,6 +8,7 @@ Esse tutuorial tem como objetivo explicar o passo a passo para adicionar um novo
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 12/02/2021 |  0.1   | Criação do documento | Durval Carvalho |
+| 12/02/2021 |  0.2   | Correção de erros ortográficos | Leonardo Gomes |
 
 ## Configuração de ambiente
 
@@ -46,8 +47,8 @@ O roteamento do docsify é bastante simples, e funciona da seguinte maneira.
 Suponha que o diretório da documentação seja composto por um arquivo `index.html`, onde está configurado o docsify, e os documento `doc1.md` e `di1/doc2.md`.
 
 <div align='center'>
-    <a href='../images/tutoriais/roteamento-docsify.png' target='_blank'>
-        <img src='../images/tutoriais/roteamento-docsify.png'>
+    <a href='assets/images/roteamento_docsify.png' target='_blank'>
+        <img src='assets/images/roteamento_docsify.png'>
     </a>
 </div>
 
@@ -92,8 +93,8 @@ O sidebar do diretório do exemplo poderia ser da seguinte maneira:
 A renderização desse markdown ficaria da seguinte maneira:
 
 <div align='center'>
-    <a href='../images/tutoriais/sidebar-docsify.png' target='_blank'>
-        <img src='../images/tutoriais/sidebar-docsify.png'>
+    <a href='assets/images/sidebar_docsify.png' target='_blank'>
+        <img src='assets/images/sidebar_docsify.png'>
     </a>
 </div>
 
