@@ -1,9 +1,9 @@
-- Projeto Plant Jammer
-  - [Planejamento da equipe](./pages/base/planejamento_equipe.md)
-  - [Planejamento do projeto](./pages/base/planejamento_projeto.md)
+- [Projeto Plant Jammer](/)
 
-- Tutoriais
-  - [Como criar novos documentos](./pages/artifact/tutorial_novo_documento.md)
+- [Ponto de Controle 1](pages/ponto_de_controle_1/planejamento_equipe.md)
+  - [Planejamento da equipe](pages/ponto_de_controle_1/planejamento_equipe.md)
+  - [Planejamento do projeto](pages/ponto_de_controle_1/planejamento_projeto.md)
+  - [Rich Picture](pages/ponto_de_controle_1/rich_picture.md)
 
-- Pré-elicitação
-  - [Rich picture](./pages/artifact/rich_picture.md)
+- [Tutoriais](pages/ponto_de_controle_1/tutorial_novo_documento.md)
+  - [Como criar novos documentos](pages/ponto_de_controle_1/tutorial_novo_documento.md)

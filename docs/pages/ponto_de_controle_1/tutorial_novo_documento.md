@@ -1,6 +1,6 @@
-<div align="justify">
+# <center> Como criar e adicionar novos documentos na documentação
 
-# Como criar e adicionar novos documentos na documentação
+<div align="justify">
 
 Esse tutuorial tem como objetivo explicar o passo a passo para adicionar um novo documento na documentação do projeto.
 

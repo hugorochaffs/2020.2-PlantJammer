@@ -1,4 +1,4 @@
-# Planejamento do projeto
+# <center> Planejamento do projeto
 
 ## Histórico de versão
 
