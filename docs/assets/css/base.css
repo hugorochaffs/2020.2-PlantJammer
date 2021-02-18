@@ -61,3 +61,13 @@
   max-width: 15%;
   max-height: 15%;
 }
+
+section.cover .cover-main > p:last-child a:last-child {
+  background-color: var(--main-color) !important;
+  border-color:  var(--main-color) !important;
+}
+
+section.cover .cover-main > p:last-child a {
+  color:  var(--main-color);
+  border-color:  var(--main-color) !important;
+}
