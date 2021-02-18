@@ -5,6 +5,7 @@
 | Data | Versão | Descrição | Autor|
 | :-: | :-: | :-: | :-: |
 | 15/02/2021 | 0.1 | Criação do Documento | João Victor |
+| 18/02/2021 | 0.2 | Remoção do HeatMap | Leonardo Gomes |
 
 <div align="justify">
 
@@ -21,15 +22,5 @@ Com base no plano de ensino, foi definido um cronograma seguindo os artefatos ex
 
 Esse cronograma está sujeito a alterações
 
-## 2. HeatMap
-
-Foi construido um heatmap para ter um conhecimento da disponibilidade dos integrantes para a realização de reuniões sobre o projeto. A numeração indica a quantidade de membros disponivel naquele horário.
-
-<p align='center'>
-    <img src='assets/images/heatmap.png'>
-    <figcaption align='center'>
-        <b>Figura 2: Disponibilidade dos integrantes</b>
-    </figcaption>
-</p>
 
 </div>
