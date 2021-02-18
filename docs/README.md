@@ -18,3 +18,6 @@
 <img src="assets/images/docsify.png" alt="Docsify" href="https://docsify.js.org/" width="50"> |  Docsify  | 
 <img src="assets/images/github.png" alt="Github" href="https://github.com" width="50"> |    Github    |
 <img src="assets/images/vscode.png" alt="VsCode" href="https://code.visualstudio.com/" width="50"> | Visual Studio Code	 |
+<img src="assets/images/drive.png" alt="Drive" href="drive.google.com" width="50"> | Google Drive	 |
+<img src="assets/images/jitsi.png" alt="Jitsi" href="" width="50"> | Jitsi Meet	 |
+<img src="assets/images/telegram.png" alt="Telegram" href="telegram.org" width="50"> | Telegram	 |
