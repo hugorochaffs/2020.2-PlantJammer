@@ -13,7 +13,7 @@
 Com base no plano de ensino, foi definido um cronograma seguindo os artefatos exigidos para cada ponto de controle. As datas de entregas foram estabelecidas com um prazo de alguns dias de antecedencia das datas do plano de ensino para possibilitar analise de erros e problemas.
 
 <p align='center'>
-    <img src='../../assets/images/cronograma.png'>
+    <img src='assets/images/cronograma.png'>
     <figcaption align='center'>
         <b>Figura 1: Cronograma definido pela equipe</b>
     </figcaption>
@@ -26,7 +26,7 @@ Esse cronograma está sujeito a alterações
 Foi construido um heatmap para ter um conhecimento da disponibilidade dos integrantes para a realização de reuniões sobre o projeto. A numeração indica a quantidade de membros disponivel naquele horário.
 
 <p align='center'>
-    <img src='../../assets/images/heatmap.png'>
+    <img src='assets/images/heatmap.png'>
     <figcaption align='center'>
         <b>Figura 2: Disponibilidade dos integrantes</b>
     </figcaption>
