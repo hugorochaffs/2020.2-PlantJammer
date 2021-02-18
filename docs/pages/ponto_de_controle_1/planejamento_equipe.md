@@ -20,7 +20,7 @@ Foi construído um heatmap para ter um conhecimento da disponibilidade dos integ
 
 ---
 
-## 2. Metodologias 
+## 2. Metodologias
 
 Todas as metodologias adotadas durante esse projeto tem relação com dois princípios fundamentais do desenvolvimento ágil de software. Esses princípios são:
 
@@ -34,7 +34,7 @@ O projeto contará com várias metodologias que juntas formam o híbrido de mét
 
 ### 2.1 Scrum
 
-O Scrum é um método que define várias atividades durante o desenvolvimento do projeto. Decidimos por utilizar o Scrum por todos os membros já estarem habituados com a metodologia. Nesse projeto utilizaremos dois artefatos do scrum: product backlog, sprint backlog. Também será utilizado alguns eventos do scrum como: sprint, sprint planning, sprint review. 
+O Scrum é um método que define várias atividades durante o desenvolvimento do projeto. Decidimos por utilizar o Scrum por todos os membros já estarem habituados com a metodologia. Nesse projeto utilizaremos dois artefatos do scrum: product backlog, sprint backlog. Também será utilizado alguns eventos do scrum como: sprint, sprint planning, sprint review.
 
 #### 2.1.1 Eventos do Scrum
 
@@ -89,7 +89,7 @@ Com isso em mente, é desejável que qualquer pessoa que se interesse pelo proje
 
 ---
 
-# Bibliografia
+## Bibliografia
 
 - KANBAN. Disponível em https://pt.wikipedia.org/wiki/Kanban
 - SCRUMGUIDE. Disponível em https://scrumguides.org/scrum-guide.html#scrum-events
