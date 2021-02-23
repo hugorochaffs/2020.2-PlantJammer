@@ -1,7 +1,6 @@
 # Plant Jammer
 
-> TODO: ESCREVER UM README SOBRE ESSE PROJETO
-
+Este repositório destina-se à matéria de Requisitos de Software da Universidade de Brasília. Possui o objetivo de analisar os requisitos funcionais e não funcionais de uma aplicação, utilizando conceitos aprendidos na discplina.
 
 ## Equipe
  Foto | Nome | Email | GitHub |
