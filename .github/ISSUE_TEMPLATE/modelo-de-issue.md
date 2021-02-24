@@ -1,9 +1,6 @@
 ---
-name: Modelo de Issue
-about: Sobre...
-title: Modelo de Issue
-labels: ''
-assignees: ''
+name: Issue comum
+about: Template para uma tarefa comum
 
 ---
 
