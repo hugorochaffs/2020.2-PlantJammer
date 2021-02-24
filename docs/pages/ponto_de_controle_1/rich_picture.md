@@ -33,6 +33,8 @@ Todo `rich picture` deve possuir ao menos alguns dos seguintes componentes.
     <img src='assets/images/rich-picture-example.png'>
     <figcaption align='center'>
         <b>Figura 1: Exemplo de rich picture</b>
+        <br>
+        <small>Fonte: adapatado de Monk, A.; Howard, S. The Rich picture: a tool for reasoning about work context.</small>
     </figcaption>
 </p>
 
@@ -58,11 +60,14 @@ Visando ajudar os interessados a compreender os principais atores, ações, os d
 ## 3. Rich Picture
 
 <div align='center'>
+    <p>Rich Picture da aplicação Plant Jammer</p>
     <a href='assets/images/rich_picture.png' target='_blank'>
         <img src='assets/images/rich_picture.png'>
     </a>
     <figcaption align='center'>
       <b>Figura 2: rich picture do Plant Jammer</b>
+      <br>
+        <small>Fonte: Autor</small>
     </figcaption>
 </div>
 

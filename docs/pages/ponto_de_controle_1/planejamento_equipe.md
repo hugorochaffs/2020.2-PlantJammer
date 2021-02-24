@@ -15,6 +15,8 @@ Foi construído um heatmap para ter um conhecimento da disponibilidade dos integ
     <img src='assets/images/heatmap.png'>
     <figcaption align='center'>
         <b>Figura 2: Disponibilidade dos integrantes</b>
+        <br>
+        <small>Fonte: Autor</small>
     </figcaption>
 </p>
 

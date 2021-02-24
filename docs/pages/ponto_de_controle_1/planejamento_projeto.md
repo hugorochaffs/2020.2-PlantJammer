@@ -17,6 +17,8 @@ Com base no plano de ensino, foi definido um cronograma seguindo os artefatos ex
     <img src='assets/images/cronograma.png'>
     <figcaption align='center'>
         <b>Figura 1: Cronograma definido pela equipe</b>
+        <br>
+        <small>Fonte: Autor</small>
     </figcaption>
 </p>
 

@@ -1,4 +1,4 @@
-<img class="cover-image" src='./assets/images/logo.png'>
+<img src='./assets/images/logo.png' class="cover-image">
 
 <h1>Plant Jammer</h1>
 
