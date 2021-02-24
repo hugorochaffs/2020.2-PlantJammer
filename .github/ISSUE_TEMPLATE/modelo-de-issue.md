@@ -1,19 +1,16 @@
 ---
-name: Modelo de Issue
-about: Sobre...
-title: Modelo de Issue
-labels: ''
-assignees: ''
+name: Issue comum
+about: Template para uma tarefa comum
 
 ---
 
-**Descrição:**
+## Descrição:
 Aqui a descrição da Issue
 
-**Critérios de Aceitação:**
+## Critérios de Aceitação:
 Aqui critérios de aceitação 
 
-**Tarefas:**
+## Tarefas:
 - [ ] Tarefa 1
 - [ ] Tarefa 2
 - [ ] Tarefa 3
