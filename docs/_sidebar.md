@@ -9,6 +9,7 @@
 - [Ponto de Controle 2](pages/ponto_de_controle_2/52wh.md)
   - [52wh](pages/ponto_de_controle_2/52wh.md)
   - [Personas](pages/ponto_de_controle_2/personas.md)
+  - [Brainstorm](pages/ponto_de_controle_2/brainstorm.md)
 
 - [Tutoriais](pages/ponto_de_controle_1/tutorial_novo_documento.md)
   - [Como criar novos documentos](pages/ponto_de_controle_1/tutorial_novo_documento.md)
