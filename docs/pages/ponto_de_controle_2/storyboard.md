@@ -13,4 +13,4 @@ O documento de Storyboard consiste em quadros desenhados dispostos sistematicame
 
 Neste storyboard, é apresentada a _persona_ Gabriela em um episódio de seu dia a dia onde ela sente a necessidade de adquirir novas ideias para cozinhar o café da manhã de forma mais saudável. Este storyboard visa tornar explicita a utilidade do aplicativo _Plant Jammer_ para o cotidiano de seus usuários.
 
-![StoryBoard](../../images/storyboard.jpg)
+![StoryBoard](../../assets/images/storyboard.jpg)
