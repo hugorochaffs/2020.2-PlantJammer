@@ -3,7 +3,7 @@
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 27/02/2021 |  0.1   | Criação do documento | João Victor |
+| 01/03/2021 |  0.1   | Criação do documento | João Victor |
 
 <div align="justify">
 
