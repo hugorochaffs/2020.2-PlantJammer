@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 01/03/2021 |  0.1   | Criação do documento | Leonardo Gomes |
+| 02/03/2021 |  0.2   | Correções ortográficas | Leonardo Gomes |
 
 <div align="justify">
 
@@ -47,7 +48,7 @@ O objetivo desse documento é listar as tarefas que o aplicativo Plant Jammer fo
 | 24 | O usuário deve poder adicionar alimentos na **lista de compras** |
 | 25 | O usuário deve poder remover alimentos na **lista de compras** |
 | 26 | O usuário deve poder adicionar uma nota sobre o alimento na **lista de compras** |
-| 27 | O usuário deve poder marcar como *chacked* o alimento na **lista de compras** |
+| 27 | O usuário deve poder marcar como *checked* o alimento na **lista de compras** |
 | 28 | O usuário deve poder compartilhar a **lista de compras** |
 | 29 | O usuário deve poder adicionar uma receita em um dia específico no **planejamento** |
 | 30 | O usuário deve poder mover a receita para outro dia no **planejamento** |
@@ -60,7 +61,7 @@ O objetivo desse documento é listar as tarefas que o aplicativo Plant Jammer fo
 | 37 | O usuário deve poder editar as restrições alimentares e os alimentos incluídos em dieta |
 | 38 | O usuário deve poder visualizar seu quadro nutricional |
 | 39 | O usuário deve poder mudar o idioma do aplicativo |
-| 40 | O usuário deve poder o nome do usuário |
+| 40 | O usuário deve poder mudar o nome do usuário |
 | 41 | O usuário deve poder adicionar lembretes |
 | 42 | O usuário deve poder obter a conta *PRIME* |
 | 43 | Com o *PRIME* o usuário deve poder se abster de anúncios |
@@ -73,7 +74,7 @@ O objetivo desse documento é listar as tarefas que o aplicativo Plant Jammer fo
  
 ## Referências
 
-Durante a elaboração desse documento, foram dois documentos de observação se mostraram úteis e serviram como referência, sendo eles:
+Durante a elaboração desse documento, dois documentos de observação se mostraram úteis e serviram como referência, sendo eles:
 
 - [Documento de observação do projeto Yellow](https://yellow.netlify.app/elicitacao/requisitos/observacao/)
 - [Documento de observação do projeto Deezer](https://requisitos-de-software.github.io/2019.2-Deezer/elicitacao/obs_part/)
