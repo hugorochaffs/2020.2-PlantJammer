@@ -97,7 +97,7 @@ Com isso em mente, é desejável que qualquer pessoa que se interesse pelo proje
 - SCRUMGUIDE. Disponível em https://scrumguides.org/scrum-guide.html#scrum-events
 - Manifesto Ágil, Disponível em: https://agilemanifesto.org/iso/ptbr/manifesto.html
 
-Durante a elaboração desse documento, foram dois documentos de metodologia se mostraram úteis e serviram como referência, sendo eles:
+Durante a elaboração desse documento, dois documentos de metodologia se mostraram úteis e serviram como referência, sendo eles:
 
 - [O documento de metodologia do projeto BCE](https://interacao-humano-computador.github.io/2020.1-BCE/#/pages/ponto_de_controle_1/metodologia_do_projeto)
 - [O documento de planejamento de equipe do projeto SEI](https://interacao-humano-computador.github.io/2020.1-SEI/#/./planning/team_planning)
