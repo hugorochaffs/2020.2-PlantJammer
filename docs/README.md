@@ -14,7 +14,7 @@ Este repositório destina-se à matéria de Requisitos de Software da Universida
 ## Ferramentas
  Icons  |  Nome  | Funcionalidades no projeto|
  ---- | ---- | ---- |
-<img src="assets/images/docsify.png" alt="Docsify" href="https://docsify.js.org/" width="200"> |  Docsify  | O docsify é um gerador de páginas estáticas sob demanda. No nosso projeto ele foi configurado para realizar o transpilação de arquivos em Markdown para páginas HTML, foi utilizado em conjunto com o github pages. |
+<img src="https://docsify.js.org/_media/icon.svg" alt="Docsify" href="https://docsify.js.org/" width="200"> |  Docsify  | O docsify é um gerador de páginas estáticas sob demanda. No nosso projeto ele foi configurado para realizar o transpilação de arquivos em Markdown para páginas HTML, foi utilizado em conjunto com o github pages. |
 <img src="assets/images/github.png" alt="Github" href="https://github.com" width="200"> |    Github    | O Github é uma excelente ferramenta para controle de versionamento e armazenamento dos arquivos de documentação. |
 <img src="assets/images/vscode.png" alt="VsCode" href="https://code.visualstudio.com/" width="200"> | Visual Studio Code	 | Considerado por muitos como o melhor editor de códigos da atualidade, o Visual Studio Code, mais conhecido como VSCode está presente em nosso projeto como o editor de códigos principal.|
 <img src="assets/images/drive.png" alt="Drive" href="drive.google.com" width="200"> | Google Drive	 | O Drive do Google é um excelente sistema de gerenciamento, armazenamento e compartilhamento de arquivos, foi utilizado em nosso projeto para armazenamento e compartilhamento de nossos arquivos.|
