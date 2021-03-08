@@ -9,6 +9,7 @@
 - [Ponto de Controle 2](pages/ponto_de_controle_2/52wh.md)
   - [5W2H](pages/ponto_de_controle_2/52wh.md)
   - [Personas](pages/ponto_de_controle_2/personas.md)
+  - [Brainstorm](pages/ponto_de_controle_2/brainstorm.md)
   - [Storyboard](pages/ponto_de_controle_2/storyboard.md)
   - [Observação Participativa](pages/ponto_de_controle_2/observação_participativa.md)
   - [Introspecção](pages/ponto_de_controle_2/introspecao.md)
