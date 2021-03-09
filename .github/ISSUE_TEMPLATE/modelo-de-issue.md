@@ -4,7 +4,7 @@ about: Template para uma tarefa comum
 
 ---
 
-## Descrição:
+## Descrição
 Aqui a descrição da Issue
 
 ## Critérios de Aceitação:
