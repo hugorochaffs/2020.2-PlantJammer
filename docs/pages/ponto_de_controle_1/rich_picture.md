@@ -76,4 +76,8 @@ Visando ajudar os interessados a compreender os principais atores, ações, os d
 
 1. [Open Access] Leite, Julio Cesar Sampaio do Prado. Livro Vivo - Engenharia de Requisitos. Disponível em: http://livrodeengenhariaderequisitos.blogspot.com/ (Último acesso em 09/02/2021).
 
+2. Monk, A; Howard, S. The Rich Picture. A Tool for Reasoning About Work Context. Disponível em https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf. (Último acesso em 09/02/2021).
+
+3. WAGENINGEN University. Rich Picture. Disponível em http://www.mspguide.org/tool/rich-picture. (Último acesso em 09/02/2021).
+
 </div>
