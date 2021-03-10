@@ -21,6 +21,13 @@ A equipe realizou uma reunião para a realização da técnica de brainstorm. Pa
 - Quais as tarefas o usuário precisa realizar no app?
 - Quais informações o App deve fornecer sobre as receitas?
 
+Participaram do Brainstorm:
+
+- João Victor
+- Hugo Rocha
+- Durval Carvalho
+- Victor Jorge
+
 
 ## 3. Objetivo
 O objetivo desse documento é registrar ideias e requisitos elicitados com o uso da técnica de brainstorm.
