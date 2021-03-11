@@ -14,12 +14,19 @@ Brainstorming é uma técnica que, por meio do compartilhamento espontâneo de i
 Assim, é importante que o brainstorming seja completamente livre de críticas. Mesmo as ideias que parecem ineficientes devem ser levadas em conta, afinal, elas podem ser o ponto de partida para a construção de pensamentos mais aprofundados.
 
 ## 2. Metodologia
-A equipe realizou uma reunião para a realização da técnica de brainstorm. Para organizar as ideias e opniões utilizamos o *Jamboard*, uma ferramenta de quadro branco digital, em que cada participante escrevia suas ideias em notas autoadesivas, e para ter um direcionamento das ideias foram levantadas as seguintes perguntas: 
-    
+A equipe realizou uma reunião para a realização da técnica de brainstorm. Para organizar as ideias e opniões utilizamos o *Jamboard*, uma ferramenta de quadro branco digital, em que cada participante escrevia suas ideias em notas autoadesivas, e para ter um direcionamento das ideias foram levantadas as seguintes perguntas:
+
 - Quais características o app ideal deve ter?
 - Quais informações o app deve fornecer?
 - Quais as tarefas o usuário precisa realizar no app?
 - Quais informações o App deve fornecer sobre as receitas?
+
+Participaram do Brainstorm:
+
+- João Victor
+- Hugo Rocha
+- Durval Carvalho
+- Victor Jorge
 
 
 ## 3. Objetivo
@@ -66,56 +73,56 @@ O objetivo desse documento é registrar ideias e requisitos elicitados com o uso
 </p>
 
 ### 4.2 Requisitos levantados
-| Número | Requisito |
-| :----: | :-------: | 
-| 1 | As receitas devem ter um video ensinando o preparo | 
-| 2 | As receitas devem ter passo a passo do preparo | 
-| 3 | Deve ser exibido o custo estimado da receita |
-| 4 | Ter a opção de exibir ingredientes que possam melhorar a receita |
-| 5 | Ter a opção de exibir ingredientes que possam substituir outro ingrediente |
-| 6 | Deve exibir as quantidades de ingredientes de acordo com o numero de porções desejadas |
-| 7 | Ter a opção de exibir informações nutricionais sobre os ingredientes |
-| 8 | Deve exibir o tempo de preparo da receita |
-| 9 | Ter a opção de exibir dicas sobre o preparo da receita |
-| 10 | Ter a opção de exibir a avaliação da receita visualizada |
-| 11 | Ter a opção de exibir recomendações de receitas bem avaliadas |
-| 12 | Ter a opção de exibir informações sobre o chefe que criou a receita (Nome do chefe, onde ele trabalha, experiencia, seguidores) |
-| 13 | Ter a opção de avaliar um chefe |
-| 14 | Ter a opção de exibir avaliações sobre o chefe |
-| 15 | Ter a opção de avaliar a receita |
-| 16 | Ter a opção de ver a avaliação de outros usuários sobre a receita|
-| 17 | Ter a opção de criar conta |
-| 18 | Ter a opção de login |
-| 19 | Ter a opção de modificar a conta (Nome, email, senha) |
-| 20 | Ter a opção de deletar a conta |
-| 21 | Ter a opção de modificar unidade de medida |
-| 22 | Ter a opção de adicionar preferências culinárias |
-| 23 | Ter a opção de modificar as preferências culinárias |
-| 24 | Ter a opção de compartilhar receitas entre usuários |
-| 25 | Ter a opção de adicionar restrições alimentares |
-| 26 | Ter a opção de modificar restrições alimentares |
-| 27 | Ter a opção de filtrar receitas com base em ingredientes já disponíveis em casa |
-| 28 | Ter a opção de buscar chefes |
-| 29 | Ter a opção de seguir chefes |
-| 30 | Ter a opção de programar refeições |
-| 31 | Ter a opção de criar lista de compras com base em refeições programadas |
-| 32 | Ter a opção de remover produtos da lista de compras |
-| 33 | Ter a opção de cancelar refeições programadas |
-| 34 | Ter a opção de recomendações de bebidas que combinem com a receita |
-| 35 | Ter a opção de recomendações de receitas por sazonalidade  |
-| 36 | Ter um layout responsivo para varios tamanhos de tela |
-| 37 | Ter suporte a varias linguas (portugues, ingles, espanhol, frances, ...) |
-| 38 | O aplicativo deve ser leve (não ocupar mais que 100MB) |
-| 39 | O aplicativo deve ser rapido (não demorar mais que 500ms para abrir e carregar receitas) |
-| 40 | O aplicativo deve ter uma interface agradavel |
-| 41 | O aplicativo deve ter compatibilidade com diversos sitemas operacionais(Android, IOS, Windows Phone) |
-| 42 | O aplicativo deve ter modo escuto e modo claro |
-| 43 | Ter a opção de fazer um tour pelo aplicativo para entender como usa-lo |
-| 44 | Ter a opção de exibir um histórico de receitas geradas pelo usuário |
+| Id Local | Descrição | Tipo de Requisito|
+| :------: | :-------: | :--------------: |
+| BST01 | As receitas devem ter um video ensinando o preparo | Requisito Funcional|
+| BST02 | As receitas devem ter passo a passo do preparo | Requisito Funcional|
+| BST03 | Deve ser exibido o custo estimado da receita | Requisito Funcional|
+| BST04 | Ter a opção de exibir ingredientes que possam melhorar a receita | Requisito Funcional|
+| BST05 | Ter a opção de exibir ingredientes que possam substituir outro ingrediente | Requisito Funcional|
+| BST06 | Deve exibir as quantidades de ingredientes de acordo com o numero de porções desejadas | Requisito Funcional|
+| BST07 | Ter a opção de exibir informações nutricionais sobre os ingredientes | Requisito Funcional|
+| BST08 | Deve exibir o tempo de preparo da receita | Requisito Funcional|
+| BST09 | Ter a opção de exibir dicas sobre o preparo da receita | Requisito Funcional|
+| BST10 | Ter a opção de exibir a avaliação da receita visualizada | Requisito Funcional|
+| BST11 | Ter a opção de exibir recomendações de receitas bem avaliadas | Requisito Funcional|
+| BST12 | Ter a opção de exibir informações sobre o chefe que criou a receita (Nome do chefe, onde ele trabalha, experiencia, seguidores) | Requisito Funcional|
+| BST13 | Ter a opção de avaliar um chefe | Requisito Funcional|
+| BST14 | Ter a opção de exibir avaliações sobre o chefe | Requisito Funcional|
+| BST15 | Ter a opção de avaliar a receita | Requisito Funcional|
+| BST16 | Ter a opção de ver a avaliação de outros usuários sobre a receita| Requisito Funcional|
+| BST17 | Ter a opção de criar conta | Requisito Funcional|
+| BST18 | Ter a opção de login | Requisito Funcional|
+| BST19 | Ter a opção de modificar a conta (Nome, email, senha) | Requisito Funcional|
+| BST20 | Ter a opção de deletar a conta | Requisito Funcional|
+| BST21 | Ter a opção de modificar unidade de medida | Requisito Funcional|
+| BST22 | Ter a opção de adicionar preferências culinárias | Requisito Funcional|
+| BST23 | Ter a opção de modificar as preferências culinárias | Requisito Funcional|
+| BST24 | Ter a opção de compartilhar receitas entre usuários | Requisito Funcional|
+| BST25 | Ter a opção de adicionar restrições alimentares | Requisito Funcional|
+| BST26 | Ter a opção de modificar restrições alimentares | Requisito Funcional|
+| BST27 | Ter a opção de filtrar receitas com base em ingredientes já disponíveis em casa | Requisito Funcional|
+| BST28 | Ter a opção de buscar chefes | Requisito Funcional|
+| BST29 | Ter a opção de seguir chefes | Requisito Funcional|
+| BST30 | Ter a opção de programar refeições | Requisito Funcional|
+| BST31 | Ter a opção de criar lista de compras com base em refeições programadas | Requisito Funcional|
+| BST32 | Ter a opção de remover produtos da lista de compras | Requisito Funcional|
+| BST33 | Ter a opção de cancelar refeições programadas | Requisito Funcional|
+| BST34 | Ter a opção de recomendações de bebidas que combinem com a receita | Requisito Funcional|
+| BST35 | Ter a opção de recomendações de receitas por sazonalidade  | Requisito Funcional|
+| BST36 | Ter um layout responsivo para varios tamanhos de tela | Requisito Não Funcional|
+| BST37 | Ter suporte a varias linguas (portugues, ingles, espanhol, frances, ...) | Requisito Funcional|
+| BST38 | O aplicativo deve ser leve (não ocupar mais que 100MB) | Requisito Não Funcional|
+| BST39 | O aplicativo deve ser rapido (não demorar mais que 500ms para abrir e carregar receitas) | Requisito Não Funcional|
+| BST40 | O aplicativo deve ter uma interface agradavel | Requisito Não Funcional|
+| BST41 | O aplicativo deve ter compatibilidade com diversos sitemas operacionais(Android, IOS, Windows Phone) | Requisito Não Funcional|
+| BST42 | O aplicativo deve ter modo escuto e modo claro | Requisito Funcional|
+| BST43 | Ter a opção de fazer um tour pelo aplicativo para entender como usa-lo | Requisito Funcional|
+| BST44 | Ter a opção de exibir um histórico de receitas geradas pelo usuário | Requisito Funcional|
 
 ## 5. Conclusão
 
-Foram identificados 44 requisitos utilizando a técnica de brainstorm. 
+Foram identificados 44 requisitos utilizando a técnica de brainstorm.
 
 ## Bibliografia
 

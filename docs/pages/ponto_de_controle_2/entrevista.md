@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 09/03/2021 |  0.1   | Criação do documento | Leonardo Gomes  |
+| 11/03/2021 |  0.2   | Adição dos requisitos levantados | Leonardo Gomes  |
 
 <div align="justify">
 
