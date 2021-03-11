@@ -6,6 +6,7 @@
 | 01/03/2021 |  0.1   | Criação do documento | Leonardo Gomes |
 | 02/03/2021 |  0.2   | Correções ortográficas | Leonardo Gomes |
 | 11/03/2021 |  0.3   | Adição do tipo de requisitos | Leonardo Gomes |
+| 11/03/2021 |  1.0   | Ajuste nos tipos de requsitos | Leonardo Gomes |
 
 <div align="justify">
 
@@ -36,11 +37,11 @@ O objetivo desse documento é listar as tarefas que o aplicativo Plant Jammer fo
 | OBS11 | O usuário deve poder criar sua receita | Requisito Funcional |
 | OBS12 | O usuário deve poder selecionar o fator predominante na receita | Requisito Funcional |
 | OBS13 | O usuário deve poder selecionar sugestões para melhorar sua receita | Requisito Funcional |
-| OBS14 | O usuário deve poder visualizar a forma de preparo da receita | Requisito Não Funcional |
+| OBS14 | O usuário deve poder visualizar a forma de preparo da receita | Requisito Funcional |
 | OBS15 | O usuário deve poder selecionar os passos que já foram concluídos na receita | Requisito Funcional |
-| OBS16 | O usuário deve poder visualizar a quantidade de cada ingrediente | Requisito Não Funcional |
+| OBS16 | O usuário deve poder visualizar a quantidade de cada ingrediente | Requisito Funcional |
 | OBS17 | O usuário deve poder mudar o número de pessoas que a receita pode alimentar (mudando a quantidade dos ingredientes) | Requisito Funcional |
-| OBS18 | O usuário deve poder visualizar o tempo em que receita demora para ser feita | Requisito Não Funcional |
+| OBS18 | O usuário deve poder visualizar o tempo em que receita demora para ser feita | Requisito Funcional |
 | OBS19 | O usuário deve poder mudar o tipo de medidas para gramas | Requisito Funcional |
 | OBS20 | O usuário deve poder avaliar a receita feita | Requisito Funcional |
 | OBS21 | O usuário deve poder adicionar a receita em uma pasta | Requisito Funcional |
@@ -58,16 +59,16 @@ O objetivo desse documento é listar as tarefas que o aplicativo Plant Jammer fo
 | OBS33 | O usuário deve poder pesquisar uma receita a partir dos ingredientes | Requisito Funcional |
 | OBS34 | O usuário deve poder selecionar uma receita que se enquadre no ingredientes selecionados | Requisito Funcional |
 | OBS35 | O usuário deve poder compartilhar o aplicativo | Requisito Funcional |
-| OBS36 | O usuário deve poder avaliar o aplicativo | Requisito Não Funcional |
+| OBS36 | O usuário deve poder avaliar o aplicativo | Requisito Funcional |
 | OBS37 | O usuário deve poder editar as restrições alimentares e os alimentos incluídos em dieta | Requisito Funcional |
-| OBS38 | O usuário deve poder visualizar seu quadro nutricional | Requisito Não Funcional |
+| OBS38 | O usuário deve poder visualizar seu quadro nutricional | Requisito Funcional |
 | OBS39 | O usuário deve poder mudar o idioma do aplicativo | Requisito Funcional |
 | OBS40 | O usuário deve poder mudar o nome do usuário | Requisito Funcional |
 | OBS41 | O usuário deve poder adicionar lembretes | Requisito Funcional |
-| OBS42 | O usuário deve poder obter a conta *PRIME* | Requisito Não Funcional |
-| OBS43 | Com o *PRIME* o usuário deve poder se abster de anúncios | Requisito Não Funcional |
-| OBS44 | Com o *PRIME* o usuário deve poder acessar a todas as receitas | Requisito Não Funcional |
-| OBS45 | Durante a **pandemia** o usuário deve poder ter acesso a 100% das funcionalidades do aplicativo | Requisito Não Funcional |
+| OBS42 | O usuário deve poder obter a conta *PRIME* | Requisito Funcional |
+| OBS43 | Com o *PRIME* o usuário deve poder se abster de anúncios | Requisito Funcional |
+| OBS44 | Com o *PRIME* o usuário deve poder acessar a todas as receitas | Requisito Funcional |
+| OBS45 | Durante a **pandemia** o usuário deve poder ter acesso a 100% das funcionalidades do aplicativo | Requisito Funcional |
 | OBS46 | O usuário deve poder sair do aplicativo | Requisito Funcional |
 
 ## Referências

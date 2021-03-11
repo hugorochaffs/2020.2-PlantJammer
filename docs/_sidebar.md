@@ -12,7 +12,7 @@
   - [Brainstorm](pages/ponto_de_controle_2/brainstorm.md)
   - [Storyboard](pages/ponto_de_controle_2/storyboard.md)
   - [Entrevistas](pages/ponto_de_controle_2/entrevista.md)
-  - [Introspecção](pages/ponto_de_controle_2/introspecao.md)
+  - [Introspecção](pages/ponto_de_controle_2/introspeccao.md)
   - [Observação Participativa](pages/ponto_de_controle_2/observacao_participativa.md)
   - [Requisitos Elicitados](pages/ponto_de_controle_2/requisitos_elicitados.md)
 
