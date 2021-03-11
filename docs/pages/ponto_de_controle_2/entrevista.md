@@ -84,8 +84,19 @@ A equipe realizou duas entrevitas para a coleta de requisitos e também ter noç
 
 **a.** "Acho que não."
 
+## 4 Requisitos levantados
+
+| ID LOCAL  | Descrição  | Tipo de Requisito |
+|:-:|:-:|:-:|
+| ETV01  | Pesquisar receita pelo nome  | Requisito Funcional  |
+| ETV02  | Pesquisar receita pelos ingredientes |  Requisito Funcional |
+| ETV03  | Deve ser possivel acompanhamento do preparo da receita  |  Requisito Funcional  |
+| ETV04  | Deve ser possivel selecionar restrições alimentares  |  Requisito Funcional  |
+| ETV05  | Variedade de pratos  |  Requisito Não Funcional  |
 
 ## Referências
+
+1. VAZQUEZ, Carlos e SIMÕES, Guilherme; ENGENHARIA DE REQUISITOS, cap.07-Elicitação de Requisitos.
 
 Durante a elaboração desse documento, um documento de observação se mostrou útil e serviu como referência:
 
