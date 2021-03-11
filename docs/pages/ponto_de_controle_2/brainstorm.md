@@ -5,6 +5,7 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 27/02/2021 |  0.1   | Criação do documento | João Victor |
 | 07/03/2021 |  0.2   | Refatoração do documento | João Victor |
+| 11/03/2021 |  0.3   | Ajuste no título da tabela de requisitos levantados  | Leonardo Gomes |
 
 <div align="justify">
 
@@ -73,8 +74,9 @@ O objetivo desse documento é registrar ideias e requisitos elicitados com o uso
 </p>
 
 ### 4.2 Requisitos levantados
-| Id Local | Descrição | Tipo de Requisito|
-| :------: | :-------: | :--------------: |
+
+| ID LOCAL | Descrição | Tipo de Requisito |
+| :------: | :-------: | :--------------:  |
 | BST01 | As receitas devem ter um video ensinando o preparo | Requisito Funcional|
 | BST02 | As receitas devem ter passo a passo do preparo | Requisito Funcional|
 | BST03 | Deve ser exibido o custo estimado da receita | Requisito Funcional|

@@ -5,6 +5,7 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 01/03/2021 |  0.1   | Criação do documento | Leonardo Gomes |
 | 02/03/2021 |  0.2   | Correções ortográficas | Leonardo Gomes |
+| 11/03/2021 |  0.3   | Adição do tipo de requisitos | Leonardo Gomes |
 
 <div align="justify">
 
@@ -20,54 +21,54 @@ O objetivo desse documento é listar as tarefas que o aplicativo Plant Jammer fo
 
 ## 3. Resultado
 
-| Número | Descrição |
-| :- | :- |
-| OBS01 | O usuário deve poder fazer o **login** com email e senha |
-| OBS02 | O usuário deve poder fazer o **login** pela conta da Google |
-| OBS03 | O usuário deve poder fazer o **login** pela conta do Facebook |
-| OBS04 | No **cadastro** o usuário deve poder escolher os objetivos de cozinhar (comer mais vegetais, geladeira vazia, obter inspiração, alimentação saudável, *eu não sei*) |
-| OBS05 | No **cadastro** o usuário deve poder selecionar as restrições alimentares e os alimentos incluídos em dieta (*come tudo*, sem açúcar, sem nozes, sem glúten, sem lactose, sem ovo, sem carne) |
-| OBS06 | No **cadastro** o usuário deve poder selecionar os pratos que costumam fazer (a partir da lista dada deve ser escolhido pelo menos 2) |
-| OBS07 | O usuário deve poder cadastrar a conta da Google |
-| OBS08 | O usuário deve poder cadastrar com o nome, email e senha |
-| OBS09 | O usuário deve poder selecionar uma receita |
-| OBS10 | O usuário deve poder selecionar os ingredientes disponíveis para a receita |
-| OBS11 | O usuário deve poder criar sua receita |
-| OBS12 | O usuário deve poder selecionar o fator predominante na receita |
-| OBS13 | O usuário deve poder selecionar sugestões para melhorar sua receita |
-| OBS14 | O usuário deve poder visualizar a forma de preparo da receita |
-| OBS15 | O usuário deve poder selecionar os passos que já foram concluídos na receita |
-| OBS16 | O usuário deve poder visualizar a quantidade de cada ingrediente |
-| OBS17 | O usuário deve poder mudar o número de pessoas que a receita pode alimentar (mudando a quantidade dos ingredientes) |
-| OBS18 | O usuário deve poder visualizar o tempo em que receita demora para ser feita |
-| OBS19 | O usuário deve poder mudar o tipo de medidas para gramas |
-| OBS20 | O usuário deve poder avaliar a receita feita |
-| OBS21 | O usuário deve poder adicionar a receita em uma pasta |
-| OBS22 | O usuário deve poder criar pastas para catalogar os alimentos |
-| OBS23 | O usuário deve poder pesquisar por pastas já existentes |
-| OBS24 | O usuário deve poder adicionar alimentos na **lista de compras** |
-| OBS25 | O usuário deve poder remover alimentos na **lista de compras** |
-| OBS26 | O usuário deve poder adicionar uma nota sobre o alimento na **lista de compras** |
-| OBS27 | O usuário deve poder marcar como *checked* o alimento na **lista de compras** |
-| OBS28 | O usuário deve poder compartilhar a **lista de compras** |
-| OBS29 | O usuário deve poder adicionar uma receita em um dia específico no **planejamento** |
-| OBS30 | O usuário deve poder mover a receita para outro dia no **planejamento** |
-| OBS31 | O usuário deve poder compartilhar o **planejamento** |
-| OBS32 | O usuário deve poder remover uma receita do **planejamento** |
-| OBS33 | O usuário deve poder pesquisar uma receita a partir dos ingredientes |
-| OBS34 | O usuário deve poder selecionar uma receita que se enquadre no ingredientes selecionados |
-| OBS35 | O usuário deve poder compartilhar o aplicativo |
-| OBS36 | O usuário deve poder avaliar o aplicativo |
-| OBS37 | O usuário deve poder editar as restrições alimentares e os alimentos incluídos em dieta |
-| OBS38 | O usuário deve poder visualizar seu quadro nutricional |
-| OBS39 | O usuário deve poder mudar o idioma do aplicativo |
-| OBS40 | O usuário deve poder mudar o nome do usuário |
-| OBS41 | O usuário deve poder adicionar lembretes |
-| OBS42 | O usuário deve poder obter a conta *PRIME* |
-| OBS43 | Com o *PRIME* o usuário deve poder se abster de anúncios |
-| OBS44 | Com o *PRIME* o usuário deve poder acessar a todas as receitas |
-| OBS45 | Durante a **pandemia** o usuário deve poder ter acesso a 100% das funcionalidades do aplicativo |
-| OBS46 | O usuário deve poder sair do aplicativo |
+| ID LOCAL | Descrição | Tipo de Requisito |
+| :- | :- | :- |
+| OBS01 | O usuário deve poder fazer o **login** com email e senha | Requisito Funcional |
+| OBS02 | O usuário deve poder fazer o **login** pela conta da Google | Requisito Funcional |
+| OBS03 | O usuário deve poder fazer o **login** pela conta do Facebook | Requisito Funcional |
+| OBS04 | No **cadastro** o usuário deve poder escolher os objetivos de cozinhar (comer mais vegetais, geladeira vazia, obter inspiração, alimentação saudável, *eu não sei*) | Requisito Funcional |
+| OBS05 | No **cadastro** o usuário deve poder selecionar as restrições alimentares e os alimentos incluídos em dieta (*come tudo*, sem açúcar, sem nozes, sem glúten, sem lactose, sem ovo, sem carne) | Requisito Funcional |
+| OBS06 | No **cadastro** o usuário deve poder selecionar os pratos que costumam fazer (a partir da lista dada deve ser escolhido pelo menos 2) | Requisito Funcional |
+| OBS07 | O usuário deve poder cadastrar a conta da Google | Requisito Funcional |
+| OBS08 | O usuário deve poder cadastrar com o nome, email e senha | Requisito Funcional |
+| OBS09 | O usuário deve poder selecionar uma receita | Requisito Funcional |
+| OBS10 | O usuário deve poder selecionar os ingredientes disponíveis para a receita | Requisito Funcional |
+| OBS11 | O usuário deve poder criar sua receita | Requisito Funcional |
+| OBS12 | O usuário deve poder selecionar o fator predominante na receita | Requisito Funcional |
+| OBS13 | O usuário deve poder selecionar sugestões para melhorar sua receita | Requisito Funcional |
+| OBS14 | O usuário deve poder visualizar a forma de preparo da receita | Requisito Não Funcional |
+| OBS15 | O usuário deve poder selecionar os passos que já foram concluídos na receita | Requisito Funcional |
+| OBS16 | O usuário deve poder visualizar a quantidade de cada ingrediente | Requisito Não Funcional |
+| OBS17 | O usuário deve poder mudar o número de pessoas que a receita pode alimentar (mudando a quantidade dos ingredientes) | Requisito Funcional |
+| OBS18 | O usuário deve poder visualizar o tempo em que receita demora para ser feita | Requisito Não Funcional |
+| OBS19 | O usuário deve poder mudar o tipo de medidas para gramas | Requisito Funcional |
+| OBS20 | O usuário deve poder avaliar a receita feita | Requisito Funcional |
+| OBS21 | O usuário deve poder adicionar a receita em uma pasta | Requisito Funcional |
+| OBS22 | O usuário deve poder criar pastas para catalogar os alimentos | Requisito Funcional |
+| OBS23 | O usuário deve poder pesquisar por pastas já existentes | Requisito Funcional |
+| OBS24 | O usuário deve poder adicionar alimentos na **lista de compras** | Requisito Funcional |
+| OBS25 | O usuário deve poder remover alimentos na **lista de compras** | Requisito Funcional |
+| OBS26 | O usuário deve poder adicionar uma nota sobre o alimento na **lista de compras** | Requisito Funcional |
+| OBS27 | O usuário deve poder marcar como *checked* o alimento na **lista de compras** | Requisito Funcional |
+| OBS28 | O usuário deve poder compartilhar a **lista de compras** | Requisito Funcional |
+| OBS29 | O usuário deve poder adicionar uma receita em um dia específico no **planejamento** | Requisito Funcional |
+| OBS30 | O usuário deve poder mover a receita para outro dia no **planejamento** | Requisito Funcional |
+| OBS31 | O usuário deve poder compartilhar o **planejamento** | Requisito Funcional |
+| OBS32 | O usuário deve poder remover uma receita do **planejamento** | Requisito Funcional |
+| OBS33 | O usuário deve poder pesquisar uma receita a partir dos ingredientes | Requisito Funcional |
+| OBS34 | O usuário deve poder selecionar uma receita que se enquadre no ingredientes selecionados | Requisito Funcional |
+| OBS35 | O usuário deve poder compartilhar o aplicativo | Requisito Funcional |
+| OBS36 | O usuário deve poder avaliar o aplicativo | Requisito Não Funcional |
+| OBS37 | O usuário deve poder editar as restrições alimentares e os alimentos incluídos em dieta | Requisito Funcional |
+| OBS38 | O usuário deve poder visualizar seu quadro nutricional | Requisito Não Funcional |
+| OBS39 | O usuário deve poder mudar o idioma do aplicativo | Requisito Funcional |
+| OBS40 | O usuário deve poder mudar o nome do usuário | Requisito Funcional |
+| OBS41 | O usuário deve poder adicionar lembretes | Requisito Funcional |
+| OBS42 | O usuário deve poder obter a conta *PRIME* | Requisito Não Funcional |
+| OBS43 | Com o *PRIME* o usuário deve poder se abster de anúncios | Requisito Não Funcional |
+| OBS44 | Com o *PRIME* o usuário deve poder acessar a todas as receitas | Requisito Não Funcional |
+| OBS45 | Durante a **pandemia** o usuário deve poder ter acesso a 100% das funcionalidades do aplicativo | Requisito Não Funcional |
+| OBS46 | O usuário deve poder sair do aplicativo | Requisito Funcional |
 
 ## Referências
 
