@@ -5,6 +5,7 @@
 | :--------: | :----: | :-------------------: | :-------------: |
 | 01/03/2021 |  1.0   | Criação do storyboard |   Victor Jorge  |
 | 10/03/2021 |  1.1   | Levantamento de Requisitos | Victor Jorge |
+| 10/03/2021 |  1.2   | Revisão do documento  | Durval Carvalho |
 
 ## Introdução
 
@@ -20,12 +21,12 @@ Neste storyboard, é apresentada a _persona_ Gabriela em um episódio de seu dia
 
 | ID  | Descrição | Tipo |
 | :-: | :-------: | :--: |
-| SB01 | O aplicativo precisa ser leve (instalação e abertura deve ser concluída em torno de 60 segundos em celulares modernos) | Requisito Não Funcional |
-| SB02 | Ao abrir a pesquisa o usuário deve poder escolher os ingredientes que ele possui | Requisito Funcional |
-| SB03 | A lista para seleção de ingredientes deve ser apresentada de forma clara e legível | Requisito Não Funcional |
-| SB04 | Após o usuário selecionar os ingredientes disponíveis e prosseguir, uma lista com todas as receitas possíveis deve ser exibida | Requisito Funcional |
-| SB05 | A lista exibida em SB04 deve ser odernada por relevância (gostos do usuário, melhor combinação de ingredientes, tipo de refeição, etc.) | Requisito Funcional |
-| SB06 | O usuário deve ser capaz de avaliar a receita e o _APP_ | Requisito Funcional |
+| STB01 | O aplicativo precisa ser leve (instalação e abertura deve ser concluída em torno de 60 segundos em celulares modernos) | Requisito Não Funcional |
+| STB02 | Ao abrir a pesquisa o usuário deve poder escolher os ingredientes que ele possui | Requisito Funcional |
+| STB03 | A lista para seleção de ingredientes deve ser apresentada de forma clara e legível | Requisito Não Funcional |
+| STB04 | Após o usuário selecionar os ingredientes disponíveis e prosseguir, uma lista com todas as receitas possíveis deve ser exibida | Requisito Funcional |
+| STB05 | A lista exibida em STB04 deve ser odernada por relevância (gostos do usuário, melhor combinação de ingredientes, tipo de refeição, etc.) | Requisito Funcional |
+| STB06 | O usuário deve ser capaz de avaliar a receita e o _APP_ | Requisito Funcional |
 
 ## Referências Bibliográficas
 
