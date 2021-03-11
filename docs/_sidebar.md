@@ -11,7 +11,7 @@
   - [Personas](pages/ponto_de_controle_2/personas.md)
   - [Brainstorm](pages/ponto_de_controle_2/brainstorm.md)
   - [Storyboard](pages/ponto_de_controle_2/storyboard.md)
-  - [Observação Participativa](pages/ponto_de_controle_2/observação_participativa.md)
+  - [Observação Participativa](pages/ponto_de_controle_2/observacao_participativa.md)
   - [Introspecção](pages/ponto_de_controle_2/introspecao.md)
 
 - [Tutoriais](pages/ponto_de_controle_1/tutorial_novo_documento.md)
