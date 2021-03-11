@@ -4,7 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 11/03/2021 |  0.1   | Criação do documento | Leonardo Gomes |
-| 11/03/2021 |  0.1   | Adição do resultado | Leonardo Gomes, Hugo Rocha e Victor Jorge |
+| 11/03/2021 |  0.2   | Adição do resultado | Leonardo Gomes, Hugo Rocha e Victor Jorge |
 
 <div align="justify">
 
@@ -23,7 +23,7 @@ O termo MoSCoW é um acrônimo em inglês da primeira letra de uma das quatro cl
 
 ## 2. Objetivo
 
-A técnica é muito simples: para cada *requisito funcional* levantado se deve se atribuir uma das quatro classificações. Nessa técnica iremos conseguir retirar uma estimativa de como devem ser planejadas a issues em *product backlog*, podendo retornar um *MVP* de maior qualidade possível.
+A técnica é muito simples: para cada *requisito funcional* levantado se deve se atribuir uma das quatro classificações. Nessa técnica iremos conseguir retirar uma estimativa de como devem ser planejadas as issues em *product backlog*, podendo retornar um *MVP* de maior qualidade possível.
 
 ## 3. Resultado
 
@@ -121,6 +121,18 @@ A técnica é muito simples: para cada *requisito funcional* levantado se deve s
 | RF090 | Na parte de configurações deve existir a opção de convidar/compartilhar o aplicativo com outros usuários | SHOULD |
 | RF091 | O aplicativo deve possuir uma sessão de anotações, onde os usuários poderão deixar seus lembretes | WANT |
 | RF092 | Na página de perfil do usuário, deve ter a opção de visualizar o quadro nutricional do usuário, com base nas receitas que o usuário preparou durante a semana e durante o mês | COULD |
+
+
+## 4 Conclusão
+
+Após a priorização de todos os requisitos funcionais foram obtidos os seguintes resultados:
+
+|Quantidade|Classificação|
+| :- | :- |
+| 28 | MUST|
+| 28 |SHOULD|
+| 30 |COULD|
+| 6  |WOULD/WANT/WON'T|
 
 ## Bibliografia
 
