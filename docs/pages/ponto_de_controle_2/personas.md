@@ -34,7 +34,7 @@ A partir de resultados da técnica de observação, pudemos elaborar 3 personas
 | Idade: | 27 anos. |
 | Profissão: | Empresária. |
 | Escolaridade: | Ensino superior completo. |
-| Quem é?: | Formada na Universidade de Brasília em administração, montou seu negócio aos 25 anos e tem crescido muito com a pandemia, se adaptou muito bem aos negócios online e tem crescido bastante como profissional. Fica muito tempo em casa e ama cozinhar, costuma fazer pratos diferentes para sua filha.|
+| Quem é?: | Formada na Universidade de Brasília em administração, montou seu negócio aos 25 anos e tem crescido muito com a pandemia, se adaptou muito bem aos negócios online e tem crescido bastante como profissional. Fica muito tempo em casa e ama cozinhar, costuma fazer pratos diferentes para sua filha, desde que tais pratos não contenham camarão, pois sua filha é alérgica.|
 | Objetivos: | Gabriela tem vários objetivos a curto prazo: pretende matricular a filha em uma escola melhor, pois percebeu que a escola atual da filha não lida muito bem com ead; fechar a loja física de vez já que seu comércio está bombando pelas mídias sociais; terminar de ver Pose, uma série que começou há algum tempo, mas até hoje não terminou por falta de vergonha na cara. </br>Gabriela organiza seus breves objetivos como aqueles que planejou para a vida. Ela sonha em viajar o mundo para conhecer diferentes culturas e experimentar diferentes comidas, quer morrer bem velhinha e passar todo o conhecimento que adquiriu na vida para seus netos e bisnetos.|
 | O que gosta de fazer: | Gabriela gosta de ter tudo em mãos para poder organizar certinho as tarefas do trabalho e da vida pessoal. Ela ama estar a par de tudo, então sempre acorda cedo para fazer seu café e ler as notícias, procurando sempre saber as providências das informações dadas pelos jornais.|
 | Desafios: | Atualmente como eventual cozinheira, sente muita dificuldade de encontrar receitas fáceis e que se adaptem perfeitamente aos ingredientes que ela já tem em casa.|
@@ -67,6 +67,18 @@ A partir de resultados da técnica de observação, pudemos elaborar 3 personas
 | O que gosta de fazer: | Paolla gosta muito de compartilhar receitas, passa dias e noites estudando combinações de pratos e harmonizações com vinhos e outras diversas bebidas. Todas as suas receitas são simples, porém maravilhosas.|
 | Desafios: | Paolla precisa de uma ferramenta (aplicativo) que ela possa compartilhar suas receitas e que suas receitas se espalhem facilmente por todo o país, visto que ela faz receitas que os ingredientes todos temos em casa.|
 | Como minha empresa pode ajudá-la? | O app Plant Jammer pode resolver todos os problemas da Paolla, ela pode se cadastrar como chef de cozinha e compartilhar suas receitas com todos os usuários, de forma fácil e prática.|
+
+### 4 Requisitos levantados
+
+| ID LOCAL | Descrição | Tipo de Requisito |
+| :------: | :-------: | :--------------:  |
+| PRS01 | Deve ter uma interface fácil e intuitiva para qualquer pessoa conseguir acessar e encontrar receitas. | Requisito Não Funcional |
+| PRS02 | O aplicativo deve fornecer receitas simples e objetivas. | Requisito Funcional |
+| PRS03 | O aplicativo deve ter uma sessão para acompanhemento de receitas de determinados chefs de cozinha. | Requisito Funcional |
+| PRS04 | O aplicativo deve ter uma sessão de inserção de restrições alimentares | Requisito Funcional |
+| PRS05 | O aplicativo deve ter uma sessão de edição de pratos favoritos | Requisito Funcional |
+| PRS06 | O aplicativo deve usar pouca memória e processamento | Requisito Funcional |
+
 
 
 ## Referências

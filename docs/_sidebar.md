@@ -16,6 +16,7 @@
   - [Observação Participativa](pages/ponto_de_controle_2/observacao_participativa.md)
   - [Introspecção](pages/ponto_de_controle_2/introspecao.md)
 
+<!--
 - [Modelagem]()
   - [Léxicos]()
   - [Cenários]()
@@ -25,6 +26,7 @@
 - [Pós-Rastreabilidade]()
   - [Backward-From]()
   - [Forward-From]()
+-->
 
 - [Apresentações](pages/ponto_de_controle_1/apresentacao.md)
   - [Ponto de Controle 1](pages/ponto_de_controle_1/apresentacao.md)
