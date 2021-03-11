@@ -6,6 +6,7 @@
 | 27/02/2021 |  0.1   | Criação do documento | Hugo Rocha |
 | 28/02/2021 |  0.2   | Revisão do documento | Durval Carvalho |
 | 07/03/2021 |  0.3   | Refatoração do documento | Hugo Rocha |
+| 11/03/2021 |  0.4   | Refatoração do documento | Hugo Rocha |
 
 <div align="justify">
 
@@ -27,7 +28,7 @@ A partir de resultados da técnica de observação, pudemos elaborar 3 personas
 
 ## 3.1. Persona 1
 
-| |<center> <img src="../../assets/images/gabrielaPersona.png" alt="" style="width:170px;"/></br> Gabriela Rocha da Silva</center>|
+| |<center><img src="https://github.com/Requisitos-de-Software/2020.2-PlantJammer/blob/master/docs/assets/images/gabrielaPersona.png?raw=true" width="200"/> </br> Gabriela Rocha da Silva</center>|
 |--|--|
 | Status: | Persona primária. |
 | Idade: | 27 anos. |
@@ -41,7 +42,7 @@ A partir de resultados da técnica de observação, pudemos elaborar 3 personas
 
 ## 3.2. Persona 2
 
-| |<center> <img src="../../assets/images/fernandaPersona.png" alt="" style="width:130px;"/></br> Fernanda Camargo dos Santos</center>|
+| |<center> <img src="https://github.com/Requisitos-de-Software/2020.2-PlantJammer/blob/master/docs/assets/images/fernandaPersona.png?raw=true" width="200"/></br> Fernanda Camargo dos Santos</center>|
 |--|--|
 | Status: | Antipersona. |
 | Idade: | 32 anos. |
@@ -55,7 +56,7 @@ A partir de resultados da técnica de observação, pudemos elaborar 3 personas
 
 ## 3.3. Persona 3
 
-| |<center> <img src="../../assets/images/paollaPersona.png" alt="" style="width:200px;"/></br> Paolla Fogaça Jacquin</center>|
+| |<center> <img src="https://github.com/Requisitos-de-Software/2020.2-PlantJammer/blob/master/docs/assets/images/paollaPersona.png?raw=true" width="200"/></br> Paolla Fogaça Jacquin</center>|
 |--|--|
 | Status: | Persona Chef |
 | Idade: | 27 anos. |
