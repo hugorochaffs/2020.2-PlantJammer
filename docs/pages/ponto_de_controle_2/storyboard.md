@@ -6,6 +6,8 @@
 | 01/03/2021 |  1.0   | Criação do storyboard |   Victor Jorge  |
 | 10/03/2021 |  1.1   | Levantamento de Requisitos | Victor Jorge |
 | 10/03/2021 |  1.2   | Revisão do documento  | Durval Carvalho |
+| 11/03/2021 |  1.3   | Ajuste no título da tabela de requisitos levantados  | Leonardo Gomes |
+
 
 ## Introdução
 
@@ -19,7 +21,7 @@ Neste storyboard, é apresentada a _persona_ Gabriela em um episódio de seu dia
 
 ## Requisitos levantados
 
-| ID  | Descrição | Tipo |
+| ID LOCAL | Descrição | Tipo de Requisito |
 | :-: | :-------: | :--: |
 | STB01 | O aplicativo precisa ser leve (instalação e abertura deve ser concluída em torno de 60 segundos em celulares modernos) | Requisito Não Funcional |
 | STB02 | Ao abrir a pesquisa o usuário deve poder escolher os ingredientes que ele possui | Requisito Funcional |
