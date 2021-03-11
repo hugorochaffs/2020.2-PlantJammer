@@ -72,12 +72,12 @@ A partir de resultados da técnica de observação, pudemos elaborar 3 personas
 
 | ID LOCAL | Descrição | Tipo de Requisito |
 | :------: | :-------: | :--------------:  |
-| PERS01 | Deve ter uma interface fácil e intuitiva para qualquer pessoa conseguir acessar e encontrar receitas. | Requisito Não Funcional|
-| PERS02 | O aplicativo deve fornecer receitas simples e objetivas. | Requisito Funcional|
-| PERS03 | O aplicativo deve ter uma sessão para acompanhemento de receitas de determinados chefs de cozinha. | Requisito Funcional|
-| PERS04 | O aplicativo deve ter uma sessão de inserção de restrições alimentares | Requisito Funcional|
-| PERS05 | O aplicativo deve ter uma sessão de edição de pratos favoritos | Requisito Funcional|
-| PERS06 | O aplicativo deve usar pouca memória e processamento | Requisito Funcional|
+| PRS01 | Deve ter uma interface fácil e intuitiva para qualquer pessoa conseguir acessar e encontrar receitas. | Requisito Não Funcional |
+| PRS02 | O aplicativo deve fornecer receitas simples e objetivas. | Requisito Funcional |
+| PRS03 | O aplicativo deve ter uma sessão para acompanhemento de receitas de determinados chefs de cozinha. | Requisito Funcional |
+| PRS04 | O aplicativo deve ter uma sessão de inserção de restrições alimentares | Requisito Funcional |
+| PRS05 | O aplicativo deve ter uma sessão de edição de pratos favoritos | Requisito Funcional |
+| PRS06 | O aplicativo deve usar pouca memória e processamento | Requisito Funcional |
 
 
 
