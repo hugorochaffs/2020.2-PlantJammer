@@ -6,14 +6,15 @@
 | 06/03/2021 |  0.1   | Criação do documento | Durval Carvalho |
 | 06/03/2021 |  0.2   | Revisão do documento | Durval Carvalho |
 | 09/03/2021 |  0.3   | Modificação da tabela de requisitos | Durval Carvalho |
+| 11/03/2021 |  1.0   | Correção ortográfica | Leonardo Gomes |
 
 <div align="justify">
 
 ## 1. Introdução
 
-A introspeção é o primeiro e o mais óbvio método para tentar entender quais as funcionalidades e restrições que o sistema deve estar sujeito para que o projeto tenha sucesso.
+A introspecção é o primeiro e o mais óbvio método para tentar entender quais as funcionalidades e restrições que o sistema deve estar sujeito para que o projeto tenha sucesso.
 
-A técnica de introspecção consisti em um método reflexivo de elicitação de requisitos muito rico, profundo, e de baixo custo. Trata-se de entender quais as prioridades que o sistema deve possuir para que seja bem recebido pelos clientes e pelos stakeholders. Nessa técnica, o engenherio de requisitos deve imaginar o que os usuários e stakeholders gostariam de ver presente no sistema.
+A técnica de introspecção consiste em um método reflexivo de elicitação de requisitos muito rico, profundo, e de baixo custo. Trata-se de entender quais as prioridades que o sistema deve possuir para que seja bem recebido pelos clientes e pelos stakeholders. Nessa técnica, o engenherio de requisitos deve imaginar o que os usuários e stakeholders gostariam de ver presente no sistema.
 
 Por se basear na intuição do engenheiro de requisitos, nem sempre a técnica de introspecção obtem requisitos verdadeiros, uma vez que o engenheiro possui uma visão enviesada e não é capaz de ter a visão de todos os tipos de usuários que estariam envolvidos com o sistema.
 

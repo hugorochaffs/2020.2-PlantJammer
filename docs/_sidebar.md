@@ -6,17 +6,18 @@
   - [Planejamento da equipe](pages/ponto_de_controle_1/planejamento_equipe.md)
   - [5W2H](pages/ponto_de_controle_2/52wh.md)
 
+
 - [Elicitação](pages/ponto_de_controle_2/personas.md)
   - [Personas](pages/ponto_de_controle_2/personas.md)
   - [Brainstorm](pages/ponto_de_controle_2/brainstorm.md)
   - [Storyboard](pages/ponto_de_controle_2/storyboard.md)
   - [Entrevistas](pages/ponto_de_controle_2/entrevista.md)
-  - [Introspecção](pages/ponto_de_controle_2/introspecao.md)
+  - [Introspecção](pages/ponto_de_controle_2/introspeccao.md)
   - [Observação Participativa](pages/ponto_de_controle_2/observacao_participativa.md)
   - [Requisitos Elicitados](pages/ponto_de_controle_2/requisitos_elicitados.md)
 
-- [Priorização]()
-  - [MosCoW]()
+- [Priorização](pages/ponto_de_controle_2/moscow.md)
+  - [MoSCoW](pages/ponto_de_controle_2/moscow.md)
 
 <!--
 - [Modelagem]()
