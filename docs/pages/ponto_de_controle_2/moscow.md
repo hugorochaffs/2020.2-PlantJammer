@@ -123,7 +123,7 @@ A técnica é muito simples: para cada *requisito funcional* levantado se deve s
 | RF092 | Na página de perfil do usuário, deve ter a opção de visualizar o quadro nutricional do usuário, com base nas receitas que o usuário preparou durante a semana e durante o mês | COULD |
 
 
-## 4 Conclusão
+## 4. Conclusão
 
 Após a priorização de todos os requisitos funcionais foram obtidos os seguintes resultados:
 
