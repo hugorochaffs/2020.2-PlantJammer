@@ -6,13 +6,59 @@
 | 10/03/2021 |  0.1   | Criação do documento | Durval Carvalho |
 | 11/03/2021 |  0.2   | Adição dos titulos de cada tipo de requisito | Leonardo Gomes |
 | 11/03/2021 |  1.0   | Correções ortográficas | Leonardo Gomes |
+| 11/03/2021 |  1.0   | Melhora tópico de introdução | Leonardo Gomes |
 
 
 <div align="justify">
 
 ## 1. Introdução
 
-O documento de requisitos elicitados é responsável por agrupar todos os requisitos que o projeto em questão está sujeito. A existência deste documento facilita a validação, a priorização e a modelagem dos diversos requisitos, uma vez que todos estaram agrupados.
+O ponto mais crítico da engenharia de requisitos é a etapa de elicitação. Eessa etapa não se trata apenas de perguntar o que os grupos de usuários desejam, mas, sim, de investigar, instigar, questionar, descobrir, explorar, em resumo, **extrair** informações destes gruopos.
+
+Essa atividade de interagir com usários para se elicitar requisitos não é uma tarefa simples, pois os usuários e stakeholders nem sempre sabem explicar as suas tarefas, podem esquecer ou deixar informações importantes de lado ou podem simplesmente não estar disponíveis ou não quererem prestar informação.
+
+Cabe ao analista de requisitos obter o engajamento necessários das fontes de requisitos e utilizar as técnicas mais adequadas para cada situação, para assim se obter a base para que as demais atividades do ciclo de desenvolvimento de software ocorra.
+
+Existem diversas técnicas disponíveis; algumas implicam a interação direta com um stakeholder humano, enquanto outras se aplicam a outros tipos de fontes de informação.
+
+Para esse projeto foi utilizado 6 técnicas:
+* Personas;
+* brainstorm;
+* Storyboard;
+* Entrevistas;
+* Introspecção;
+* Observação Participativa;
+
+No total, foi obtido 168 requisitos, porém diversos requisitos equivalentes foram elicitados por técnicas diferentes, havendo assim a necessidade de agrupá-los e filtrá-los.
+
+Outra necessidade que surgiu foi a da padronização da forma de descrição dos requisitos. Uma vez que diversos analistas trabalharam na etapa de elicitação, é normal que cada um escreva os requisitos da forma como está acostumado. Dessa maneira foi necessário reescrever os requisitos de modo que todos tenham uma consistência entre si.
+
+Para a reescrita desses requisitos as seguintes dicas foram seguidas:
+* Ótica da escrita: lembre-se que o documento de requisito vai ser mais lido do que escrito, portanto a maior prioridade é o leitor.
+* Tamanho das frases: frases longas dificultam a leitura e podem levar a interpretações incorretas. Dê preferência a frases curtas e diretas.
+* Correção na escrita: não deve haver erros gramaticais no texto, pois esses além de dificultar a leitura pode mudar completamente o significado do requisito.
+* Uso da voz ativa: dê preferência para frases usando a voz ativa.
+* Uso da forma positiva: é preferível usar a forma positiva e evitar a negativa do tipo "não deve". Esse tipo de requisito é chamado de requisito inverso e dificulta o entendimento.
+* Termos ambíguos: há termos que levam a ambiguidades e indeterminações, e devem ser removidos de qualquer especificação de requisitos, esses termos são: alguns, muitos, poucos, melhor, pior, robusto, adequado, rápido, amigável. Esses termos são ambíguos pois não são metrificáveis.
+* Tempo verbal: o tempo verbal empregado pode trazer um significado adicional implícito ao requisito, e isso nem sempre é desejável. Por exemplo: "o sistema deve" sugere que é um requisito obrigratório, mas "o sistema deveria" sugere uma interpretação de que o sistema poderia não fazer, implicando em um requisito menos prioritário. **Questões de prioridade não devem ser tratadas pelo tempo verbal**.
+* Acrônimos e jargões: esses termos constituem um ponto frágil na especificação de requisitos. O recomendável é manter um glossário compartilhado entre todos os membros do projeto, de modo que para todo termo utilizado se tenha uma explicação associada.
+* O que e não como: lembre-se de que, idealmente, os requisitos devem definir o que deve ser feito, e não como deve ser implementado.
+
+Durante a reescrita, também foi utilizado os atributos de qualidade dos requisitos, buscando sempre que os requisitos possuam as seguintes características:
+* **Completo**: O requisito deve está especificado de forma completa e possibilitar que o desenvolvedor o implemente.
+* **Correto**: O requisito deve refletir o que o usuário/cliente desejam. O analista de requisito deve compreender exatamente o que o cliente deseja, antes de especificar um requisito.
+* **Único**: O requisito descreve uma única capacidade, característica, restrição ou atributo de qualidade. Não deve haver mais de um requisito para a mesma especificação.
+* **Viável**: O requisito é viável tecnicamente e financeiramente para ser implementado, de acordo com as restrições do projeto.
+* **Necessário**: O requisito tem um motivo de existir, que é representado pelo seu relacionamento com uma fonte de informação e com um objetivo de negócio.
+* **Priorizado**: O requisito deve possuir uma priorização para que possa ser alocado a uma versão do software.
+* **Não ambíguo**: O requisito não deve conter ambiguidades que levem os stakeholders a interpretá-lo de forma diferente.
+* **Verificável**: O requisito deve poder ser verificado posteriormente à sua implementação.
+* **Conforme**: O requisito devem estar em conformidade com os padrões de especificação estabelecidos, se houver.
+
+
+Com isso, esse documento é responsável por agrupar todos os requisitos que o projeto em questão está sujeito.
+
+A existência deste documento facilita a validação, a priorização e a modelagem dos diversos requisitos, uma vez que todos estaram agrupados.
 
 ## 2. Objetivo
 
