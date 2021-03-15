@@ -6,13 +6,34 @@
 | 27/02/2021 |  0.1   | Criação do documento | João Victor |
 | 07/03/2021 |  0.2   | Refatoração do documento | João Victor |
 | 11/03/2021 |  0.3   | Ajuste no título da tabela de requisitos levantados  | Leonardo Gomes |
+| 11/03/2021 |  0.4   | Melhora o tópico de introdução | Durval Carvalho |
 
 <div align="justify">
 
 ## 1. Introdução
+
 Brainstorming é uma técnica que, por meio do compartilhamento espontâneo de ideias, busca encontrar a solução para um problema ou gerar insights de criatividade. Para que seja bem-sucedido, o processo deve focar em quantidade, não em qualidade.
 
 Assim, é importante que o brainstorming seja completamente livre de críticas. Mesmo as ideias que parecem ineficientes devem ser levadas em conta, afinal, elas podem ser o ponto de partida para a construção de pensamentos mais aprofundados.
+
+A aplicação da técnica requer preparação e envolvimento de várias pessoas.
+
+Inicialmente, deve ser selecionada uma dinâmica para o entrosamento dos participantes, que permita que o ambiente fique descontraído e propício à criatividade. É comum que haja algumas brincadeiras em pé ou em movimento. Mas não se deve tomar muito tempo do evento.
+
+Para a realização de Brainstorming presenciais é necessário o uso de canetas e post-it. Porém para a realização de Brainstorming remotos, com auxílio de ferramentas computacionais é necessário que o sistema em questão seja compreendido por todos os participantes, além de garantir que todos possuam uma boa conexão de rede.
+
+Um Brainstorming é composto por três etapas:
+* Aquecimento (com a dinâmica selecionada)
+* Ideação (geração de ideias)
+* Encerramento (agrupamento das ideias)
+
+Opcionalmente pode ser realizado uma última etapa onde será avaliado e votado as melhores ideias.
+
+Vale lembrar que o Brainstorming não funciona bem em times fechados e muito formais. Nesse cenário os participantes não vão ter entrosamento necessário para se aplicar a técnica. Outro ponto importante é que se deve evitar ao máximo possível a realização de críticas e julgamentos das ideias propostas, pois isso prejudica a dinâmica.
+
+Os grupos de Brainstorming deve ter ao máximo 8 pessoas. Quando houver mais do que 8 pessoas é recomendado a divisão em grupos menores.
+
+A técnica de Brainstorming é muito útil quando se deseja encontrar soluções inovadoras e criativas. Também é muito útil quando se deseja desenvolver uma solução nova, que não existe ainda opções no mercado.
 
 ## 2. Metodologia
 A equipe realizou uma reunião para a realização da técnica de brainstorm. Para organizar as ideias e opniões utilizamos o *Jamboard*, uma ferramenta de quadro branco digital, em que cada participante escrevia suas ideias em notas autoadesivas, e para ter um direcionamento das ideias foram levantadas as seguintes perguntas:
