@@ -5,12 +5,49 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 09/03/2021 |  0.1   | Criação do documento | Leonardo Gomes  |
 | 11/03/2021 |  0.2   | Adição dos requisitos levantados | Leonardo Gomes  |
+| 11/03/2021 |  0.2   | Melhora o tópico de Introdução | Durval Carvalho |
 
 <div align="justify">
 
 ## 1. Introdução
 
-Essa técnica consiste em reuniões com os stakeholders, formais ou informais, onde são colocadas questões formuladas pela equipe de engenharia de requisitos sobre o processo de trabalho atual e sobre o sistema que está sendo estudado. A entrevista feita foi por mensagem tendo em vista ao cenário do período do projeto.
+Uma das formas mais usuais de se realizar elicitação de requisitos a partir de fontes humanas é através de entrevistas. A utilização desta técnica facilita a obtenção de informações, que muitas vezes, estão apenas presentes na memória das pessoas.
+
+Essa técnica consiste em reuniões com os stakeholders, formais ou informais, onde são colocadas questões formuladas pelo analista de requisitos, onde será abordado temas como o processo de trabalho atual e sobre o sistema que está sendo estudado.
+
+Como qualquer outra técnica, a entrevista exige uma preparação por parte do entrevistador. É recomendado que ele prepare uma lista de questões mais abrangentes no início e que, progressivamente, ficam mais detalhadas.
+
+As questões devem seguir uma ordem lógica e abordar um assunto de cada vez.
+
+O roteiro com as quesstões deve servir apenas para guiar e orientar o processo de entrevista, e não deve ser usado de forma restritiva, pois a riqueza do processo de entrevista está justamente no oposto.
+
+O entrevistador deve dar espaço para que o entrevistado possa se manifestar livremente sobre seus anseios em relação à solução que existe ou está sendo desenvolvida.
+
+Algumas dicas para a condução de entrevistas de elicitação de requisitos são:
+* Conquista a confiança do entrevistado se apresentando e explicando claramente a finalidade do encontro;
+* Tome notas durante a entrevista ou grave-a (se o entrevistado permitir)
+* Se possível, tenha um redator, liberando assim o entrevistador para focar na conversa com o entrevistado;
+* Deixe para analisar criticamente depois (não corrija falhas, faça críticas ou discuta);
+* Inicie com questões mais abertas, tipo "como é o trabalho que você realiza?"
+* Evite termos muito técnicos e tente se aproximar do jargão da área;
+* Evite perguntas com respostas do tipo "sim" ou "não", que podem limitar a participação do entrevistado;
+* Se a entrevista se desviar, reconduza, com habilidade, para o foco da entrevista;
+* Esclareça as possíveis preocupações por parte do entrevistado (o que vai ser feito com a gravação por exemplo);
+* Dê abertura para novos contatos, da sua parte e de parte do entrevistado;
+* Valide as informações obtidas com relação ao objetivo previamente estipulado;
+
+A utilização da técnica de entrevista pode falhar quando as seguintes situações ocorrem:
+* Falta de preparo do condutor da entrevista;
+* Falta de preparo do entrevistado;
+* Tendência do entrevistado em dar respostas agradáveis (quando o entrevistado evita responder a realidade);
+* Tendência do entrevistado em forcar em palpites ou em respostas falsas (quando o entrevistado responde o que não sabe);
+* Resistência do entrevistado com declarações do tipo "não sei", "não conheço" (quando o entrevistado realmente não sabe ou não quer responder).
+
+
+A utilização da técnica de entrevista é muito útil quando:
+* Quando existem pessoas que têm o conhecimento necessário sobre o negócio e estão disponíveis para serem entrevistadas;
+* Há necessidade de captar informações subjetivas (desabafos, sentimentos, pontos de vista) que podem ser úteis para a definição de requisitos do sistema;
+* É preciso conhecer o fluxo de trabalho e de documentos no contexto da aplicação;
 
 ## 2. Objetivo
 
