@@ -19,9 +19,9 @@
 - [Priorização](pages/ponto_de_controle_2/moscow.md)
   - [MoSCoW](pages/ponto_de_controle_2/moscow.md)
 
+- [Modelagem](pages/ponto_de_controle_3/lexico.md)
+  - [Léxicos](pages/ponto_de_controle_3/lexico.md)
 <!--
-- [Modelagem]()
-  - [Léxicos]()
   - [Cenários]()
   - [Casos de uso]()
   - [NFR]()
