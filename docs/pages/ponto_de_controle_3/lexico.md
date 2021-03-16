@@ -163,14 +163,62 @@
 | **Nome** | Aroma |
 | **Sinônimos** | Cheiro, Essência |
 | **Noção** | Odor exalado pelos [ingredientes](#Ingrediente) |
-| **Impacto** | Cada [ingredientes](#Ingrediente) possui um conjunto de aromas associados, que podem ou não ser recomendados na criação de [receitas](#receita). |
+| **Impacto** | Cada [ingredientes](#Ingrediente) possui um conjunto de aromas associados, que podem ou não ser recomendados na criação de uma [receitas](#receita). |
 | **Classificação** | Objeto |
 
 ### Sabores
 | | |
 |-|-|
-| **Nome** | Aroma |
-| **Sinônimos** | Cheiro, Essência |
-| **Noção** | Odor exalado pelos [ingredientes](#Ingrediente) |
-| **Impacto** | Cada [ingredientes](#Ingrediente) possui um conjunto de aromas associados, que podem ou não ser recomendados na criação de [receitas](#receita). |
+| **Nome** | Sabores |
+| **Sinônimos** | Gostos, Gustação |
+| **Noção** | Gostos dos [ingredientes](#Ingrediente) percebidos pelo paladar humano |
+| **Impacto** | Cada [ingredientes](#Ingrediente) possui um conjunto de gostos associados, que podem ou não ser recomendados na criação de uma [receitas](#receita). |
 | **Classificação** | Objeto |
+
+
+### Score
+| | |
+|-|-|
+| **Nome** | Score |
+| **Sinônimos** | Pontuação, Nota |
+| **Noção** | Cada [receita](#receita) possui uma pontuação associada |
+| **Impacto** | Os [usuários](#Usuário) avaliam as [receitas](#receita). |
+| **Classificação** | Objeto |
+
+
+### Roda de Sabores
+| | |
+|-|-|
+| **Nome** | Roda de Sabores |
+| **Sinônimos** | Tela de Sabores, Sabores da Receita |
+| **Noção** | Na tela de descrição de uma [receita](#receita) é possível visualizar todos os [ingredientes](#Ingrediente) e seus respectivos [sabores](#sabores) e [aromas](#aromas), possibilitando assim uma rápida visualização dos [sabores](#sabores) e [aromas](#aromas) que aquela [receita](#receita) pode propocionar |
+| **Impacto** | Os [usuários](#Usuário) analisam se as [receitas](#receita) propocionam a experiência gastronômica desejada |
+| **Classificação** | Objeto |
+
+
+### Porções
+| | |
+|-|-|
+| **Nome** | Porções |
+| **Sinônimos** | Fração, Fatias, Divisão |
+| **Noção** | Quantidade de pessoas que podem ser servidas pela [receita](#receita) |
+| **Impacto** | O [usuário](#Usuário) pode modificar a quantidade de porções aumentando ou diminuindo a quantidade de [ingredientes](#Ingrediente) que serão usados na [receita](#receita). O usuário também pode mudar a quantidade de [ingredientes](#Ingrediente) aumentando ou diminuindo a quantidade de porções que a [refeição](#Comida) deve servir |
+| **Classificação** | Objeto |
+
+### Logs de execução
+| | |
+|-|-|
+| **Nome** | Logs de execução |
+| **Sinônimos** | Histórico de execução |
+| **Noção** | Os programas em execução salvam de tempos em tempos o histórico do programa, para que os desenvolvedores possam analisar comportamentos e erros |
+| **Impacto** | Os desenvolvedores podem analisar os logs de execução enviados pelos aplicativos para futuros insights de erros de usabilidade e bugs  |
+| **Classificação** | Objeto |
+
+### Background
+| | |
+|-|-|
+| **Nome** | Background |
+| **Sinônimos** | Segundo Plano |
+| **Noção** |  |
+| **Impacto** |  |
+| **Classificação** |  |
