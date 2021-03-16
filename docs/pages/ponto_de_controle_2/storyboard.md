@@ -11,11 +11,11 @@
 
 ## Introdução
 
-O documento de Storyboard consiste em quadros desenhados dispostos sistematicamente com o objetivo de narrar uma história fictícia de interação do usuário com a plataforma. Neste documento são destacados de forma visual os objetivos do aplicativo Plant Jammer.
+O documento de Storyboard consiste em quadros desenhados dispostos sistematicamente com o objetivo de narrar uma história fictícia de interação do [usuário](pages/ponto_de_controle_3/lexico?id=usuário) com a plataforma. Neste documento são destacados de forma visual os objetivos do aplicativo Plant Jammer.
 
 ## Storyboard
 
-Neste storyboard, é apresentada a _persona_ Gabriela em um episódio de seu dia a dia onde ela sente a necessidade de adquirir novas ideias para cozinhar o café da manhã de forma mais saudável. Este storyboard visa tornar explicita a utilidade do aplicativo _Plant Jammer_ para o cotidiano de seus usuários.
+Neste storyboard, é apresentada a _persona_ Gabriela em um episódio de seu dia a dia onde ela sente a necessidade de adquirir novas ideias para [cozinhar](pages/ponto_de_controle_3/lexico?id=preparar-receita) o café da manhã de forma mais [saudável](pages/ponto_de_controle_3/lexico?id=Saudável). Este storyboard visa tornar explicita a utilidade do aplicativo _Plant Jammer_ para o cotidiano de seus [usuários](pages/ponto_de_controle_3/lexico?id=usuário).
 
 ![StoryBoard](../../assets/images/storyboard.jpg)
 
@@ -24,11 +24,11 @@ Neste storyboard, é apresentada a _persona_ Gabriela em um episódio de seu dia
 | ID LOCAL | Descrição | Tipo de Requisito |
 | :-: | :-------: | :--: |
 | STB01 | O aplicativo precisa ser leve (instalação e abertura deve ser concluída em torno de 60 segundos em celulares modernos) | Requisito Não Funcional |
-| STB02 | Ao abrir a pesquisa o usuário deve poder escolher os ingredientes que ele possui | Requisito Funcional |
-| STB03 | A lista para seleção de ingredientes deve ser apresentada de forma clara e legível | Requisito Não Funcional |
-| STB04 | Após o usuário selecionar os ingredientes disponíveis e prosseguir, uma lista com todas as receitas possíveis deve ser exibida | Requisito Funcional |
-| STB05 | A lista exibida em STB04 deve ser odernada por relevância (gostos do usuário, melhor combinação de ingredientes, tipo de refeição, etc.) | Requisito Funcional |
-| STB06 | O usuário deve ser capaz de avaliar a receita e o _APP_ | Requisito Funcional |
+| STB02 | Ao abrir a [pesquisa](pages/ponto_de_controle_3/lexico?id=pesquisar-receita) o [usuário](pages/ponto_de_controle_3/lexico?id=usuário) deve poder escolher os [ingredientes](pages/ponto_de_controle_3/lexico?id=ingrediente) que ele possui | Requisito Funcional |
+| STB03 | A lista para seleção de [ingredientes](pages/ponto_de_controle_3/lexico?id=ingrediente) deve ser apresentada de forma clara e legível | Requisito Não Funcional |
+| STB04 | Após o usuário selecionar os [ingredientes](pages/ponto_de_controle_3/lexico?id=ingrediente) disponíveis e prosseguir, uma lista com todas as receitas possíveis deve ser exibida | Requisito Funcional |
+| STB05 | A lista exibida em STB04 deve ser odernada por relevância (gostos do usuário, melhor combinação de [ingredientes](pages/ponto_de_controle_3/lexico?id=ingrediente), tipo de [refeição](pages/ponto_de_controle_3/lexico?id=comida), etc.) | Requisito Funcional |
+| STB06 | O [usuário](pages/ponto_de_controle_3/lexico?id=usuário) deve ser capaz de avaliar a [receita](pages/ponto_de_controle_3/lexico?id=avaliar-receita) e o _APP_ | Requisito Funcional |
 
 ## Referências Bibliográficas
 

@@ -19,8 +19,8 @@
 |-|-|
 | **Nome** | Saudável |
 | **Sinônimos** | Sadio, Natural |
-| **Noção** | Termo utilizado para se referir a alimentos naturais e frecos. |
-| **Impacto** | Classificação de um alimento |
+| **Noção** | Termo utilizado para se referir a [alimentos](#Comida) naturais e frecos. |
+| **Impacto** | Classificação de um [alimento](#Comida) |
 | **Classificação** | Estado |
 
 ### Receita
@@ -28,8 +28,8 @@
 |-|-|
 | **Nome** | Receita |
 | **Sinônimos** | Pratos |
-| **Noção** | Conjunto de orientações e passos que ajudam os [usuários](#Usuário) prepararem pratos de comida |
-| **Impacto** | Informação que revela como um determinado alimento é feito |
+| **Noção** | Conjunto de orientações e [passos](#Passo) que ajudam os [usuários](#Usuário) prepararem pratos de comida |
+| **Impacto** | Informação que revela como um determinado [alimento](#Comida) é feito |
 | **Classificação** | Objeto |
 
 ### Passo
@@ -38,14 +38,14 @@
 | **Nome** | Passo |
 | **Sinônimos** | Etapa, atividade  |
 | **Noção** | Ação realizada com um [ingrediente](#Ingrediente) visando a elaboração de uma [receita](#receita) |
-| **Impacto** | Os usuários realizam diversos passos com os [ingredientes](#Ingrediente), para no fim se obter um [alimento](Comida) |
+| **Impacto** | Os usuários realizam diversos passos com os [ingredientes](#Ingrediente), para no fim se obter um [alimento](#Comida) |
 | **Classificação** | Objeto |
 
 ### Comida
 | | |
 |-|-|
 | **Nome** | Comida |
-| **Sinônimos** | Alimento, Prato de Comida |
+| **Sinônimos** | Alimento, Prato de Comida, Refeição |
 | **Noção** | Aquilo que se come ou que serve pra comer |
 | **Impacto** | Resultado de uma [receita](#receita) que foi preparada |
 | **Classificação** | Objeto |
@@ -87,4 +87,23 @@
 | **Sinônimos** | Procurar receita, Buscar Receita  |
 | **Noção** | Os usuários utilizam a barra de pesquisas para pesquisar por determinadas [receitas](#receita) |
 | **Impacto** | Após entrar no aplicativo o usuário pode pesquisar por [receitas](#receita) |
+| **Classificação** | Verbo |
+
+
+### Preparar Receita
+| | |
+|-|-|
+| **Nome** | Preparar Receita |
+| **Sinônimos** | Cozinhar receita, Realizar Receita  |
+| **Noção** | Os [usuários](#Usuário) seguem os [passos](#Passo) definidos na receita para preparar um [alimento](#Comida) |
+| **Impacto** | Após entrar no aplicativo o usuário pode [pesquisar](#pesquisar-receita) por [receitas](#receita) |
+| **Classificação** | Verbo |
+
+### Avaliar Receita
+| | |
+|-|-|
+| **Nome** | Avaliar Receita |
+| **Sinônimos** | Qualificar Receita, Dar nota |
+| **Noção** | Os [usuários](#Usuário) podem avaliar a qualidade de uma [receitas](#receita) com seus próprios critérios |
+| **Impacto** | Após acessar a página de uma [receitas](#receita), o [usuário](#Usuário) pode avaliar uma [receita](#receita) |
 | **Classificação** | Verbo |
