@@ -107,3 +107,70 @@
 | **Noção** | Os [usuários](#Usuário) podem avaliar a qualidade de uma [receitas](#receita) com seus próprios critérios |
 | **Impacto** | Após acessar a página de uma [receitas](#receita), o [usuário](#Usuário) pode avaliar uma [receita](#receita) |
 | **Classificação** | Verbo |
+
+### Compartilhar uma Receita
+| | |
+|-|-|
+| **Nome** | Compartilhar uma Receita |
+| **Sinônimos** | Enviar o link de uma receita |
+| **Noção** | Os [usuários](#Usuário) podem compartilhar uma [receitas](#receita) com seus amigos |
+| **Impacto** | Após acessar a página de uma [receitas](#receita), o [usuário](#Usuário) pode clicar em "Compartilhar a [receita](#receita)" |
+| **Classificação** | Verbo |
+
+### Fazer Login
+| | |
+|-|-|
+| **Nome** | Compartilhar uma Receita |
+| **Sinônimos** | Sign in, Entrar |
+| **Noção** | Fazer login significa colocar informações de identificação para ter acesso a uma conta já criada. |
+| **Impacto** | O [usuário](#Usuário) que já possui um cadastro coloca suas informações de identificação. |
+| **Classificação** | Verbo |
+
+
+### Fazer Cadastro
+| | |
+|-|-|
+| **Nome** | Compartilhar uma Receita |
+| **Sinônimos** | Sign up, registrar |
+| **Noção** | Cadastrar significa criar uma conta no aplicativo colocando informações pessoais. |
+| **Impacto** | O cadastro do [usuário](#Usuário) permite que o sistema reconheça e diferencie cada pessoa. |
+| **Classificação** | Verbo |
+
+
+### Estar Logado
+| | |
+|-|-|
+| **Nome** | Estar Logado |
+| **Sinônimos** | Estar autenticado, Estar identificado, acessando com autenticação |
+| **Noção** | O [usuário](#Usuário) quando [realiza login](#Fazer-Login) no aplicativo, fica com o estado logado |
+| **Impacto** | Uma vez que [usuário](#Usuário) o esteja logado, é possível recuperar as informações salvas em usos anteriores |
+| **Classificação** | Estado |
+
+
+### Restrição Alimentar
+| | |
+|-|-|
+| **Nome** | Restrição Alimentar |
+| **Sinônimos** | Restrição Alimentar, Limitação Alimentar |
+| **Noção** | São [ingredientes](#Ingrediente) que alguns [usuário](#Usuário) são intolerantes, tem alergia ou preferem não comer |
+| **Impacto** | Cada [usuário](#Usuário) pode definir quais [alimentos](#Comida) serão adicionados à sua lista de [alimentos](#Comida) restritos |
+| **Classificação** | Objeto |
+
+
+### Aroma
+| | |
+|-|-|
+| **Nome** | Aroma |
+| **Sinônimos** | Cheiro, Essência |
+| **Noção** | Odor exalado pelos [ingredientes](#Ingrediente) |
+| **Impacto** | Cada [ingredientes](#Ingrediente) possui um conjunto de aromas associados, que podem ou não ser recomendados na criação de [receitas](#receita). |
+| **Classificação** | Objeto |
+
+### Sabores
+| | |
+|-|-|
+| **Nome** | Aroma |
+| **Sinônimos** | Cheiro, Essência |
+| **Noção** | Odor exalado pelos [ingredientes](#Ingrediente) |
+| **Impacto** | Cada [ingredientes](#Ingrediente) possui um conjunto de aromas associados, que podem ou não ser recomendados na criação de [receitas](#receita). |
+| **Classificação** | Objeto |
