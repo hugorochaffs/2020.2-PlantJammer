@@ -27,7 +27,7 @@
 | | |
 |-|-|
 | **Nome** | Receita |
-| **Sinônimos** | Pratos  |
+| **Sinônimos** | Pratos |
 | **Noção** | Conjunto de orientações e passos que ajudam os [usuários](#Usuário) prepararem pratos de comida |
 | **Impacto** | Informação que revela como um determinado alimento é feito |
 | **Classificação** | Objeto |
@@ -47,7 +47,7 @@
 | **Nome** | Comida |
 | **Sinônimos** | Alimento, Prato de Comida |
 | **Noção** | Aquilo que se come ou que serve pra comer |
-| **Impacto** | Resultado de uma [receita](#receita) |
+| **Impacto** | Resultado de uma [receita](#receita) que foi preparada |
 | **Classificação** | Objeto |
 
 
@@ -63,10 +63,10 @@
 ### Anúncio
 | | |
 |-|-|
-| **Nome** | Anúncio  |
+| **Nome** | Anúncio |
 | **Sinônimos** | Indicação, propaganda, publicidade |
-| **Noção** | Texto ou imagem publicitário que surge na tela de usuários não [Premium](#Premium) |
-| **Impacto** | Os anúncios são uma fonte de receita provinientes de [usuários](#Usuário) que não pagam pelo aplicativo |
+| **Noção** | Texto ou imagem publicitário que surge na tela de usuários não [Premium](#Premium). Os anúncios são uma fonte de receita provinientes de [usuários](#Usuário) que não pagam pelo aplicativo |
+| **Impacto** | Os anúncios aparecem na tela de usuários comuns de tempos em tempos. |
 | **Classificação** | Objeto |
 
 
@@ -76,7 +76,7 @@
 | **Nome** | Premium  |
 | **Sinônimos** | Assinatura paga |
 | **Noção** | Assinatura de [usuários](#Usuário) que tem acesso ilimitado aos recursos do aplicativo. As assinaturas premium são uma fonte de receita provinentes de [usuários](#Usuário) que pagam mensalmente pelo uso do aplicativo |
-| **Impacto** | Os [usuários](#Usuário) quando pagam um determinado tempo de assinatura recebem uma assinatura Premium |
+| **Impacto** | Os [usuários](#Usuário) quando pagam por um determinado tempo de assinatura recebem uma assinatura Premium |
 | **Classificação** | Objeto |
 
 
