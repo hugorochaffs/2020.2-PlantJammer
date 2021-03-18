@@ -9,8 +9,8 @@
 |-|-|
 | **Nome** | Usuário |
 | **Sinônimos** | Cliente, Utilizador |
-| **Noção** | Termo que se refere às pessoas que utilizam o aplicativo |
-| **Impacto** | Pessoa que realiza todas atividades no aplicativo |
+| **Noção** | Termo que se refere às pessoas que utilizam o [aplicativo](#Aplicativo) |
+| **Impacto** | Pessoa que realiza todas atividades no [aplicativo](#Aplicativo) |
 | **Classificação** | Objeto |
 
 
@@ -65,7 +65,7 @@
 |-|-|
 | **Nome** | Anúncio |
 | **Sinônimos** | Indicação, propaganda, publicidade |
-| **Noção** | Texto ou imagem publicitário que surge na tela de usuários não [Premium](#Premium). Os anúncios são uma fonte de receita provinientes de [usuários](#Usuário) que não pagam pelo aplicativo |
+| **Noção** | Texto ou imagem publicitário que surge na tela de usuários não [Premium](#Premium). Os anúncios são uma fonte de receita provinientes de [usuários](#Usuário) que não pagam pelo [aplicativo](#Aplicativo) |
 | **Impacto** | Os anúncios aparecem na tela de usuários comuns de tempos em tempos. |
 | **Classificação** | Objeto |
 
@@ -75,7 +75,7 @@
 |-|-|
 | **Nome** | Premium  |
 | **Sinônimos** | Assinatura paga |
-| **Noção** | Assinatura de [usuários](#Usuário) que tem acesso ilimitado aos recursos do aplicativo. As assinaturas premium são uma fonte de receita provinentes de [usuários](#Usuário) que pagam mensalmente pelo uso do aplicativo |
+| **Noção** | Assinatura de [usuários](#Usuário) que tem acesso ilimitado aos recursos do aplicativo. As assinaturas premium são uma fonte de receita provinentes de [usuários](#Usuário) que pagam mensalmente pelo uso do [aplicativo](#Aplicativo) |
 | **Impacto** | Os [usuários](#Usuário) quando pagam por um determinado tempo de assinatura recebem uma assinatura Premium |
 | **Classificação** | Objeto |
 
@@ -86,7 +86,7 @@
 | **Nome** | Pesquisar Receita |
 | **Sinônimos** | Procurar receita, Buscar Receita  |
 | **Noção** | Os usuários utilizam a barra de pesquisas para pesquisar por determinadas [receitas](#receita) |
-| **Impacto** | Após entrar no aplicativo o usuário pode pesquisar por [receitas](#receita) |
+| **Impacto** | Após entrar no [aplicativo](#Aplicativo) o usuário pode pesquisar por [receitas](#receita) |
 | **Classificação** | Verbo |
 
 
@@ -96,7 +96,7 @@
 | **Nome** | Preparar Receita |
 | **Sinônimos** | Cozinhar receita, Realizar Receita  |
 | **Noção** | Os [usuários](#Usuário) seguem os [passos](#Passo) definidos na receita para preparar um [alimento](#Comida) |
-| **Impacto** | Após entrar no aplicativo o usuário pode [pesquisar](#pesquisar-receita) por [receitas](#receita) |
+| **Impacto** | Após entrar no [aplicativo](#Aplicativo) o usuário pode [pesquisar](#pesquisar-receita) por [receitas](#receita) |
 | **Classificação** | Verbo |
 
 ### Avaliar Receita
@@ -132,8 +132,8 @@
 |-|-|
 | **Nome** | Compartilhar uma Receita |
 | **Sinônimos** | Sign up, registrar |
-| **Noção** | Cadastrar significa criar uma conta no aplicativo colocando informações pessoais. |
-| **Impacto** | O cadastro do [usuário](#Usuário) permite que o sistema reconheça e diferencie cada pessoa. |
+| **Noção** | Cadastrar significa criar uma conta no [aplicativo](#Aplicativo) colocando informações pessoais. |
+| **Impacto** | O cadastro do [usuário](#Usuário) permite que o [sistema](#Aplicativo) reconheça e diferencie cada pessoa. |
 | **Classificação** | Verbo |
 
 
@@ -211,7 +211,7 @@
 | **Nome** | Logs de execução |
 | **Sinônimos** | Histórico de execução |
 | **Noção** | Os programas em execução salvam de tempos em tempos o histórico do programa, para que os desenvolvedores possam analisar comportamentos e erros |
-| **Impacto** | Os desenvolvedores podem analisar os logs de execução enviados pelos aplicativos para futuros insights de erros de usabilidade e bugs  |
+| **Impacto** | Os desenvolvedores podem analisar os logs de execução enviados pelos [aplicativos](#Aplicativo) para futuros insights de erros de usabilidade e bugs  |
 | **Classificação** | Objeto |
 
 ### Background
@@ -222,3 +222,21 @@
 | **Noção** |  |
 | **Impacto** |  |
 | **Classificação** |  |
+
+### Aplicativo
+| | |
+|-|-|
+| **Nome** | Aplicativo |
+| **Sinônimos** | App, Sistema, Plataforma |
+| **Noção** | É um programa de computador concebido para processar dados eletronicamente, facilitando e reduzindo o tempo de execução de uma tarefa pelo usuário. O termo [aplicativo](#Aplicativo) geralmente se refere a uma classe de programas de computador que executam em dispositivos móveis. |
+| **Impacto** | É o componente com que o [usuário](#usuário) interagirá a fim de atingir suas metas. |
+| **Classificação** | Objeto |
+
+## Cozinheiro
+| | |
+|-|-|
+| **Nome** | Cozinheiro |
+| **Sinônimos** | Chef, [Usuário](#Usuário) |
+| **Noção** | O cozinheiro tem uma atuação que exige habilidade com as panelas, nas combinações dos temperos e no corte certo das carnes. O profissional prepara todos os alimentos da cozinha e trabalha em conjunto com o chef de cozinha. |
+| **Impacto** | O cozinheiro pode utilizar o [aplicativo](#aplicativo) publicando suas [receitas](#receita) ou adquirindo novos conhecimentos através de receitas de outros [usuários](#Usuário) |
+| **Classificação** | Objeto |
