@@ -19,10 +19,10 @@
 - [Priorização](pages/ponto_de_controle_2/moscow.md)
   - [MoSCoW](pages/ponto_de_controle_2/moscow.md)
 
+- [Modelagem](pages/ponto_de_controle_3/cenarios.md)
+  - [Cenários](pages/ponto_de_controle_3/cenarios.md)
 <!--
-- [Modelagem]()
   - [Léxicos]()
-  - [Cenários]()
   - [Casos de uso]()
   - [NFR]()
 
