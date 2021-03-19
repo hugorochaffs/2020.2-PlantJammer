@@ -7,6 +7,7 @@
 | 28/02/2021 |  0.2   | Revisão do documento | Durval Carvalho |
 | 07/03/2021 |  0.3   | Refatoração do documento | Hugo Rocha |
 | 11/03/2021 |  0.4   | Refatoração do documento | Hugo Rocha |
+| 18/03/2021 |  0.5   | Adição de links para os [léxicos](pages/ponto_de_controle_3/lexico) | Victor Jorge |
 
 <div align="justify">
 
