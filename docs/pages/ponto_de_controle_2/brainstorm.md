@@ -7,6 +7,7 @@
 | 07/03/2021 |  0.2   | Refatoração do documento | João Victor |
 | 11/03/2021 |  0.3   | Ajuste no título da tabela de requisitos levantados  | Leonardo Gomes |
 | 11/03/2021 |  0.4   | Melhora o tópico de introdução | Durval Carvalho |
+| 21/03/2021 |  1.0   | Adição de links para os [léxicos](pages/ponto_de_controle_3/lexico) | Leonardo Gomes |
 
 <div align="justify">
 
@@ -40,8 +41,8 @@ A equipe realizou uma reunião para a realização da técnica de brainstorm. Pa
 
 - Quais características o app ideal deve ter?
 - Quais informações o app deve fornecer?
-- Quais as tarefas o usuário precisa realizar no app?
-- Quais informações o App deve fornecer sobre as receitas?
+- Quais as tarefas o [usuário](pages/ponto_de_controle_3/lexico?id=usuário) precisa realizar no app?
+- Quais informações o App deve fornecer sobre as [receitas](pages/ponto_de_controle_3/lexico?id=receita)?
 
 Participaram do Brainstorm:
 
@@ -98,50 +99,50 @@ O objetivo desse documento é registrar ideias e requisitos elicitados com o uso
 
 | ID LOCAL | Descrição | Tipo de Requisito |
 | :------: | :-------: | :--------------:  |
-| BST01 | As receitas devem ter um video ensinando o preparo | Requisito Funcional|
-| BST02 | As receitas devem ter passo a passo do preparo | Requisito Funcional|
-| BST03 | Deve ser exibido o custo estimado da receita | Requisito Funcional|
-| BST04 | Ter a opção de exibir ingredientes que possam melhorar a receita | Requisito Funcional|
-| BST05 | Ter a opção de exibir ingredientes que possam substituir outro ingrediente | Requisito Funcional|
-| BST06 | Deve exibir as quantidades de ingredientes de acordo com o numero de porções desejadas | Requisito Funcional|
-| BST07 | Ter a opção de exibir informações nutricionais sobre os ingredientes | Requisito Funcional|
-| BST08 | Deve exibir o tempo de preparo da receita | Requisito Funcional|
-| BST09 | Ter a opção de exibir dicas sobre o preparo da receita | Requisito Funcional|
-| BST10 | Ter a opção de exibir a avaliação da receita visualizada | Requisito Funcional|
-| BST11 | Ter a opção de exibir recomendações de receitas bem avaliadas | Requisito Funcional|
-| BST12 | Ter a opção de exibir informações sobre o chefe que criou a receita (Nome do chefe, onde ele trabalha, experiencia, seguidores) | Requisito Funcional|
+| BST01 | As [receitas](pages/ponto_de_controle_3/lexico?id=receita) devem ter um video ensinando o preparo | Requisito Funcional|
+| BST02 | As [receitas](pages/ponto_de_controle_3/lexico?id=receita) devem ter [passo a passo](pages/ponto_de_controle_3/lexico?id=passo) do preparo | Requisito Funcional|
+| BST03 | Deve ser exibido o custo estimado da [receita](pages/ponto_de_controle_3/lexico?id=receita) | Requisito Funcional|
+| BST04 | Ter a opção de exibir [ingredientes](pages/ponto_de_controle_3/lexico?id=ingrediente) que possam melhorar a [receita](pages/ponto_de_controle_3/lexico?id=receita) | Requisito Funcional|
+| BST05 | Ter a opção de exibir [ingredientes](pages/ponto_de_controle_3/lexico?id=ingrediente) que possam substituir outro [ingrediente](pages/ponto_de_controle_3/lexico?id=ingrediente) | Requisito Funcional|
+| BST06 | Deve exibir as quantidades de [ingredientes](pages/ponto_de_controle_3/lexico?id=ingrediente) de acordo com o numero de [porções](pages/ponto_de_controle_3/lexico?id=Porções) desejadas | Requisito Funcional|
+| BST07 | Ter a opção de exibir [informações nutricionais](pages/ponto_de_controle_3/lexico?id=quadro-nutricional) sobre os [ingredientes](pages/ponto_de_controle_3/lexico?id=ingrediente) | Requisito Funcional|
+| BST08 | Deve exibir o tempo de preparo da [receita](pages/ponto_de_controle_3/lexico?id=receita) | Requisito Funcional|
+| BST09 | Ter a opção de exibir dicas sobre o preparo da [receita](pages/ponto_de_controle_3/lexico?id=receita) | Requisito Funcional|
+| BST10 | Ter a opção de exibir a [avaliação da receita](pages/ponto_de_controle_3/lexico?id=avaliar-receita)visualizada | Requisito Funcional|
+| BST11 | Ter a opção de exibir recomendações de [receitas bem avaliadas](pages/ponto_de_controle_3/lexico?id=avaliar-receita) | Requisito Funcional|
+| BST12 | Ter a opção de exibir informações sobre o chefe que criou a [receita](pages/ponto_de_controle_3/lexico?id=receita) (Nome do chefe, onde ele trabalha, experiencia, seguidores) | Requisito Funcional|
 | BST13 | Ter a opção de avaliar um chefe | Requisito Funcional|
 | BST14 | Ter a opção de exibir avaliações sobre o chefe | Requisito Funcional|
-| BST15 | Ter a opção de avaliar a receita | Requisito Funcional|
-| BST16 | Ter a opção de ver a avaliação de outros usuários sobre a receita| Requisito Funcional|
-| BST17 | Ter a opção de criar conta | Requisito Funcional|
-| BST18 | Ter a opção de login | Requisito Funcional|
-| BST19 | Ter a opção de modificar a conta (Nome, email, senha) | Requisito Funcional|
-| BST20 | Ter a opção de deletar a conta | Requisito Funcional|
+| BST15 | Ter a opção de [avaliar a receita](pages/ponto_de_controle_3/lexico?id=avaliar-receita) | Requisito Funcional|
+| BST16 | Ter a opção de ver a avaliação de outros [usuários](pages/ponto_de_controle_3/lexico?id=usuário) sobre a [receita](pages/ponto_de_controle_3/lexico?id=receita) | Requisito Funcional|
+| BST17 | Ter a opção de criar [conta](pages/ponto_de_controle_3/lexico?id=conta) | Requisito Funcional|
+| BST18 | Ter a opção de [login](pages/ponto_de_controle_3/lexico?id=fazer-login) | Requisito Funcional|
+| BST19 | Ter a opção de modificar a [conta](pages/ponto_de_controle_3/lexico?id=fazer-login) (Nome, email, senha) | Requisito Funcional|
+| BST20 | Ter a opção de deletar a [conta](pages/ponto_de_controle_3/lexico?id=fazer-login) | Requisito Funcional|
 | BST21 | Ter a opção de modificar unidade de medida | Requisito Funcional|
 | BST22 | Ter a opção de adicionar preferências culinárias | Requisito Funcional|
 | BST23 | Ter a opção de modificar as preferências culinárias | Requisito Funcional|
-| BST24 | Ter a opção de compartilhar receitas entre usuários | Requisito Funcional|
-| BST25 | Ter a opção de adicionar restrições alimentares | Requisito Funcional|
-| BST26 | Ter a opção de modificar restrições alimentares | Requisito Funcional|
-| BST27 | Ter a opção de filtrar receitas com base em ingredientes já disponíveis em casa | Requisito Funcional|
+| BST24 | Ter a opção de [compartilhar receitas](pages/ponto_de_controle_3/lexico?id=compartilhar-uma-receita) entre [usuários](pages/ponto_de_controle_3/lexico?id=usuário) | Requisito Funcional|
+| BST25 | Ter a opção de adicionar [restrições alimentares](pages/ponto_de_controle_3/lexico?id=restrição-alimentar) | Requisito Funcional|
+| BST26 | Ter a opção de modificar [restrições alimentares](pages/ponto_de_controle_3/lexico?id=restrição-alimentar) | Requisito Funcional|
+| BST27 | Ter a opção de filtrar [receitas](pages/ponto_de_controle_3/lexico?id=receita) com base em [ingredientes](pages/ponto_de_controle_3/lexico?id=ingrediente) já disponíveis em casa | Requisito Funcional|
 | BST28 | Ter a opção de buscar chefes | Requisito Funcional|
 | BST29 | Ter a opção de seguir chefes | Requisito Funcional|
 | BST30 | Ter a opção de programar refeições | Requisito Funcional|
 | BST31 | Ter a opção de criar lista de compras com base em refeições programadas | Requisito Funcional|
 | BST32 | Ter a opção de remover produtos da lista de compras | Requisito Funcional|
 | BST33 | Ter a opção de cancelar refeições programadas | Requisito Funcional|
-| BST34 | Ter a opção de recomendações de bebidas que combinem com a receita | Requisito Funcional|
-| BST35 | Ter a opção de recomendações de receitas por sazonalidade  | Requisito Funcional|
+| BST34 | Ter a opção de recomendações de bebidas que combinem com a [receita](pages/ponto_de_controle_3/lexico?id=receita) | Requisito Funcional|
+| BST35 | Ter a opção de recomendações de [receitas](pages/ponto_de_controle_3/lexico?id=receita) por sazonalidade  | Requisito Funcional|
 | BST36 | Ter um layout responsivo para varios tamanhos de tela | Requisito Não Funcional|
 | BST37 | Ter suporte a varias linguas (portugues, ingles, espanhol, frances, ...) | Requisito Funcional|
-| BST38 | O aplicativo deve ser leve (não ocupar mais que 100MB) | Requisito Não Funcional|
-| BST39 | O aplicativo deve ser rapido (não demorar mais que 500ms para abrir e carregar receitas) | Requisito Não Funcional|
-| BST40 | O aplicativo deve ter uma interface agradavel | Requisito Não Funcional|
-| BST41 | O aplicativo deve ter compatibilidade com diversos sitemas operacionais(Android, IOS, Windows Phone) | Requisito Não Funcional|
-| BST42 | O aplicativo deve ter modo escuto e modo claro | Requisito Funcional|
-| BST43 | Ter a opção de fazer um tour pelo aplicativo para entender como usa-lo | Requisito Funcional|
-| BST44 | Ter a opção de exibir um histórico de receitas geradas pelo usuário | Requisito Funcional|
+| BST38 | O [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) deve ser leve (não ocupar mais que 100MB) | Requisito Não Funcional|
+| BST39 | O [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) deve ser rapido (não demorar mais que 500ms para abrir e carregar [receitas](pages/ponto_de_controle_3/lexico?id=receita) ) | Requisito Não Funcional|
+| BST40 | O [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) deve ter uma interface agradavel | Requisito Não Funcional|
+| BST41 | O [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) deve ter compatibilidade com diversos sitemas operacionais(Android, IOS, Windows Phone) | Requisito Não Funcional|
+| BST42 | O [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) deve ter modo escuto e modo claro | Requisito Funcional|
+| BST43 | Ter a opção de fazer um tour pelo [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) para entender como usa-lo | Requisito Funcional|
+| BST44 | Ter a opção de exibir um histórico de [receitas](pages/ponto_de_controle_3/lexico?id=receita) geradas pelo [usuário](pages/ponto_de_controle_3/lexico?id=usuário) | Requisito Funcional|
 
 ## 5. Conclusão
 

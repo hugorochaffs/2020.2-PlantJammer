@@ -23,7 +23,7 @@ Existem diversas técnicas disponíveis; algumas implicam a interação direta c
 
 Para esse projeto foi utilizado 6 técnicas:
 * Personas;
-* brainstorm;
+* Brainstorm;
 * Storyboard;
 * Entrevistas;
 * Introspecção;

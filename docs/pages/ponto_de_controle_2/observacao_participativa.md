@@ -29,7 +29,7 @@ O objetivo desse documento é listar as tarefas que o aplicativo Plant Jammer fo
 | OBS02 | O usuário deve poder fazer o [login](pages/ponto_de_controle_3/lexico?id=fazer-login) pela [conta](pages/ponto_de_controle_3/lexico?id=conta) da Google | Requisito Funcional |
 | OBS03 | O usuário deve poder fazer o [login](pages/ponto_de_controle_3/lexico?id=fazer-login) pela [conta](pages/ponto_de_controle_3/lexico?id=conta) do Facebook | Requisito Funcional |
 | OBS04 | No [cadastro](pages/ponto_de_controle_3/lexico?id=fazer-cadastro) o usuário deve poder escolher os objetivos de cozinhar (comer mais vegetais, geladeira vazia, obter inspiração, alimentação saudável, *eu não sei*) | Requisito Funcional |
-| OBS05 | No [cadastro](pages/ponto_de_controle_3/lexico?id=fazer-cadastro) o usuário deve poder selecionar as restrições alimentares e os [alimentos](pages/ponto_de_controle_3/lexico?id=comida) incluídos em [dieta](pages/ponto_de_controle_3/lexico?id=dieta) (*come tudo*, sem açúcar, sem nozes, sem glúten, sem lactose, sem ovo, sem carne) | Requisito Funcional |
+| OBS05 | No [cadastro](pages/ponto_de_controle_3/lexico?id=fazer-cadastro) o usuário deve poder selecionar as [restrições alimentares](pages/ponto_de_controle_3/lexico?id=restrição-alimentar) e os [alimentos](pages/ponto_de_controle_3/lexico?id=comida) incluídos em [dieta](pages/ponto_de_controle_3/lexico?id=dieta) (*come tudo*, sem açúcar, sem nozes, sem glúten, sem lactose, sem ovo, sem carne) | Requisito Funcional |
 | OBS06 | No [cadastro](pages/ponto_de_controle_3/lexico?id=fazer-cadastro) o usuário deve poder selecionar os pratos que costumam fazer (a partir da lista dada deve ser escolhido pelo menos 2) | Requisito Funcional |
 | OBS07 | O usuário deve poder cadastrar a [conta](pages/ponto_de_controle_3/lexico?id=conta) da Google | Requisito Funcional |
 | OBS08 | O usuário deve poder cadastrar com o nome, email e senha | Requisito Funcional |
@@ -67,7 +67,8 @@ O objetivo desse documento é listar as tarefas que o aplicativo Plant Jammer fo
 | OBS40 | O usuário deve poder mudar o [nome do usuário](pages/ponto_de_controle_3/lexico?id=nome-de-usuário) | Requisito Funcional |
 | OBS41 | O usuário deve poder adicionar lembretes | Requisito Funcional |
 | OBS42 | O usuário deve poder obter a [conta *PRIME*](pages/ponto_de_controle_3/lexico?id=premium) | Requisito Funcional |
-| OBS43 | Com o [*PRIME*](pages/ponto_de_controle_3/lexico?id=premium) o usuário deve poder se abster de anúncios | Requisito Funcional |
+[](pages/ponto_de_controle_3/lexico?id=ingrediente)
+| OBS43 | Com o [*PRIME*](pages/ponto_de_controle_3/lexico?id=premium) o usuário deve poder se abster de [anúncios](pages/ponto_de_controle_3/lexico?id=anúncio) | Requisito Funcional |
 | OBS44 | Com o [*PRIME*](pages/ponto_de_controle_3/lexico?id=premium) o usuário deve poder acessar a todas as [receitas](pages/ponto_de_controle_3/lexico?id=receita) | Requisito Funcional |
 | OBS45 | Durante a **pandemia** o usuário deve poder ter acesso a 100% das funcionalidades do aplicativo | Requisito Funcional |
 | OBS46 | O usuário deve poder sair do aplicativo | Requisito Funcional |

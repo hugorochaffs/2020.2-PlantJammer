@@ -277,7 +277,7 @@
 | | |
 |-|-|
 | **Nome** | Quadro nutricional |
-| **Sinônimos** |  |
+| **Sinônimos** | Informações nutricionais |
 | **Noção** | É uma seção do [aplicativo](#aplicativo) que disponibiliza as informações nutricionais do [usuário](#usuário) baseado nos pratos que supostamente comporam sua dieta. As informações nutricionais são divididas em seções: distribuição de energia por macronutriente, ácidos graxos, vitaminas, minerais e proteínas. |
 | **Impacto** | O [usuário](#usuário) pode acessar seu quadro nutricional quando desejar. O quadro nutricional é atualizado de acordo com as refeições realizadas pelo [usuário](#usuário). |
 | **Classificação** | Objeto |

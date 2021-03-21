@@ -6,6 +6,7 @@
 | 09/03/2021 |  0.1   | Criação do documento | Leonardo Gomes  |
 | 11/03/2021 |  0.2   | Adição dos requisitos levantados | Leonardo Gomes  |
 | 11/03/2021 |  0.2   | Melhora o tópico de Introdução | Durval Carvalho |
+| 21/03/2021 |  1.0   | Adição de links para os [léxicos](pages/ponto_de_controle_3/lexico) | Leonardo Gomes |
 
 <div align="justify">
 
@@ -55,12 +56,12 @@ A equipe realizou duas entrevitas para a coleta de requisitos e também ter noç
 
 |  ID  |  Perguntas  |
 | :- | :- |
-|  1  |  Você já utilizou alguma plataforma para procurar alguma receita?       |
+|  1  |  Você já utilizou alguma plataforma para procurar alguma [receita](pages/ponto_de_controle_3/lexico?id=procurar-receita)?       |
 |  2  |  Você já utilizou o Plant Jammer? Se sim, qual foi a principal motivo.  |
-|  3  |  Você acha que esse aplicativo tem facilitado sua vida? Por que?        |
-|  4  |  Quais são os maiores defeitos que você enxerga nesse aplicativo?       |
-|  5  |  Quais são as maiores qualidades que você enxerga nesse aplicativo?     |
-|  6  |  Tem algo nos outros aplicativos/sites que a senhora utilizou que a senhora vê falta no Plant Jammer?  |
+|  3  |  Você acha que esse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) tem facilitado sua vida? Por que?        |
+|  4  |  Quais são os maiores defeitos que você enxerga nesse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?       |
+|  5  |  Quais são as maiores qualidades que você enxerga nesse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?     |
+|  6  |  Tem algo nos outros [aplicativos](pages/ponto_de_controle_3/lexico?id=aplicativo)/sites que a senhora utilizou que a senhora vê falta no Plant Jammer?  |
 
 ## 3. Entrevistas
 
@@ -68,57 +69,57 @@ A equipe realizou duas entrevitas para a coleta de requisitos e também ter noç
 
 **Entrevistada:** Julia Neves da Silva
 
-##### Você já utilizou alguma plataforma para procurar alguma receita?
+##### Você já utilizou alguma plataforma para procurar alguma [receita](pages/ponto_de_controle_3/lexico?id=procurar-receita)?
 
-**a.** "Quando eu quero fazer alguma receita eu tendo a ir na internet e entrar em qualquer site que tenha a receita que eu quero."
+**a.** "Quando eu quero fazer alguma [receita](pages/ponto_de_controle_3/lexico?id=receita) eu tendo a ir na internet e entrar em qualquer site que tenha a [receita](pages/ponto_de_controle_3/lexico?id=receita) que eu quero."
 
-**b.** "Eu utilizo muito o TikTok para ver umas receitas novas também, mas geralmente coisa doce"
+**b.** "Eu utilizo muito o TikTok para ver umas [receitas](pages/ponto_de_controle_3/lexico?id=receita) novas também, mas geralmente coisa doce"
 
 ##### Você já utilizou o Plant Jammer? Se sim, qual foi a principal motivo.
 
-**a.** "Já utilizei sim, e eu geralmente utilizo quando eu não tenho nenhuma receita na minha cabeça para fazer, para descobrir uma nova receita ou algo assim."
+**a.** "Já utilizei sim, e eu geralmente utilizo quando eu não tenho nenhuma [receita](pages/ponto_de_controle_3/lexico?id=receita) na minha cabeça para fazer, para descobrir uma nova [receita](pages/ponto_de_controle_3/lexico?id=receita) ou algo assim."
 
-##### Você acha que esse aplicativo tem facilitado sua vida? Por que?
+##### Você acha que esse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) tem facilitado sua vida? Por que?
 
-**a.** "Eu acho que sim, quando eu estou com preguiça de ir atrás de algo ou eu estou sem criatividade ele é bem bom, mas eu não costumo utilizar ele diariamente, porque como sou vegetariana eu já tenho umas receitas prontas na minha cabeça."
+**a.** "Eu acho que sim, quando eu estou com preguiça de ir atrás de algo ou eu estou sem criatividade ele é bem bom, mas eu não costumo utilizar ele diariamente, porque como sou vegetariana eu já tenho umas [receitas](pages/ponto_de_controle_3/lexico?id=receita) prontas na minha cabeça."
 
-##### Quais são os maiores defeitos que você enxerga nesse aplicativo?
+##### Quais são os maiores defeitos que você enxerga nesse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?
 
-**a.** "Não sei muito dizer, porque faz tempo que eu não mexo no aplicativo, mas que eu lembro é o passo a passo de cada receita, porque eu queria uma coisa mais rápida e o aplicativo fica dando um passo de cada vez para a receita, mas eu não tenho certeza."
+**a.** "Não sei muito dizer, porque faz tempo que eu não mexo no [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo), mas que eu lembro é o [passo a passo](pages/ponto_de_controle_3/lexico?id=passo) de cada [receita](pages/ponto_de_controle_3/lexico?id=receita), porque eu queria uma coisa mais rápida e o [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) fica dando um [passo](pages/ponto_de_controle_3/lexico?id=passo) de cada vez para a [receita](pages/ponto_de_controle_3/lexico?id=receita), mas eu não tenho certeza."
 
-##### Quais são as maiores qualidades que você enxerga nesse aplicativo?
+##### Quais são as maiores qualidades que você enxerga nesse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?
 
-**a.** "Eu acho o aplicativo muito bonito e acho que essa parte de poder escolher os ingredientes e fazer uma receita bem legal."
+**a.** "Eu acho o [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) muito bonito e acho que essa parte de poder escolher os [ingredientes](pages/ponto_de_controle_3/lexico?id=ingrediente) e fazer uma [receita](pages/ponto_de_controle_3/lexico?id=receita) bem legal."
 
-##### Tem algo nos outros aplicativos/sites que a senhora utilizou que a senhora vê falta no Plant Jammer?
+##### Tem algo nos outros [aplicativos](pages/ponto_de_controle_3/lexico?id=aplicativo)/sites que a senhora utilizou que a senhora vê falta no Plant Jammer?
 
-**a.** "Além do acesso rápido a receita final não"
+**a.** "Além do acesso rápido a [receita](pages/ponto_de_controle_3/lexico?id=receita) final não"
 
 #### 3.2. Entrevista 02
 
 **Entrevistada:** Claudia Maria da Silva Gomes
 
-##### Você já utilizou alguma plataforma para procurar alguma receita?
+##### Você já utilizou alguma plataforma para procurar alguma [receita](pages/ponto_de_controle_3/lexico?id=procurar-receita)?
 
-**a.** "Eu costumo utilizar uns livros que eu tenho e o meu filho me mostrou o Plant Jammer e como ele é vegetariano eu costumo procurar para ele no aplicativo."
+**a.** "Eu costumo utilizar uns livros que eu tenho e o meu filho me mostrou o Plant Jammer e como ele é vegetariano eu costumo procurar para ele no [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)."
 
 ##### Você já utilizou o Plant Jammer? Se sim, qual foi a principal motivo.
 
 **a.** "Foi porque meu filho é vegetariano como eu já disse."
 
-##### Você acha que esse aplicativo tem facilitado sua vida? Por que?
+##### Você acha que esse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) tem facilitado sua vida? Por que?
 
-**a.** "Sim, eu sou muito ruim para comida, então quando ele se tornou vegetariano eu não sabia o que fazer para ele comer e as vezes como não dá para ele fazer a comida dele, porque ele está apressado com as coisas da faculdade, então eu tento fazer algo que ele goste."
+**a.** "Sim, eu sou muito ruim para [comida](pages/ponto_de_controle_3/lexico?id=comida), então quando ele se tornou vegetariano eu não sabia o que fazer para ele comer e as vezes como não dá para ele fazer a [comida](pages/ponto_de_controle_3/lexico?id=comida) dele, porque ele está apressado com as coisas da faculdade, então eu tento fazer algo que ele goste."
 
-##### Quais são os maiores defeitos que você enxerga nesse aplicativo?
+##### Quais são os maiores defeitos que você enxerga nesse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?
 
 **a.** "Eu acho muito bom."
 
-##### Quais são as maiores qualidades que você enxerga nesse aplicativo?
+##### Quais são as maiores qualidades que você enxerga nesse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?
 
-**a.** "Eu acho que a variedade de pratos talvez"
+**a.** "Eu acho que a variedade de [pratos](pages/ponto_de_controle_3/lexico?id=comida) talvez"
 
-##### Tem algo nos outros aplicativos/sites que a senhora utilizou que a senhora vê falta no Plant Jammer?
+##### Tem algo nos outros [aplicativos](pages/ponto_de_controle_3/lexico?id=aplicativo)/sites que a senhora utilizou que a senhora vê falta no Plant Jammer?
 
 **a.** "Acho que não."
 
@@ -126,11 +127,11 @@ A equipe realizou duas entrevitas para a coleta de requisitos e também ter noç
 
 | ID LOCAL  | Descrição  | Tipo de Requisito |
 |:-:|:-:|:-:|
-| ETV01  | Pesquisar receita pelo nome  | Requisito Funcional  |
-| ETV02  | Pesquisar receita pelos ingredientes |  Requisito Funcional |
-| ETV03  | Deve ser possivel acompanhamento do preparo da receita  |  Requisito Funcional  |
-| ETV04  | Deve ser possivel selecionar restrições alimentares  |  Requisito Funcional  |
-| ETV05  | Variedade de pratos  |  Requisito Não Funcional  |
+| ETV01  | [Pesquisar receita](pages/ponto_de_controle_3/lexico?id=pesquisar-receita) pelo nome  | Requisito Funcional  |
+| ETV02  | [Pesquisar receita](pages/ponto_de_controle_3/lexico?id=pesquisar-receita) pelos [ingredientes](pages/ponto_de_controle_3/lexico?id=ingrediente) |  Requisito Funcional |
+| ETV03  | Deve ser possivel acompanhamento do [preparo da receita](pages/ponto_de_controle_3/lexico?id=preparar-receita)  |  Requisito Funcional  |
+| ETV04  | Deve ser possivel selecionar [restrições alimentares](pages/ponto_de_controle_3/lexico?id=restrição-alimentar)  |  Requisito Funcional  |
+| ETV05  | Variedade de [pratos](pages/ponto_de_controle_3/lexico?id=comida)  |  Requisito Não Funcional  |
 
 ## Referências
 
