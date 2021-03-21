@@ -21,7 +21,9 @@
 
 - [Modelagem](pages/ponto_de_controle_3/cenarios.md)
   - [Cenários](pages/ponto_de_controle_3/cenarios.md)
+
   - [Caso de Uso](pages/ponto_de_controle_3/caso-de-uso.md)
+  - [Especificação Suplementar](pages/ponto_de_controle_3/especificacaoSuplementar.md)
 <!--
   - [Léxicos]()
   - [Casos de uso]()
