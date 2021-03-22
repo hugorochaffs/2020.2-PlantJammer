@@ -7,7 +7,17 @@
 
 <!-- Esse documento ainda será escrito -->
 
-## Termos chaves para o projeto
+## 1. Introdução
+
+Atividades associadas ao processo de requisitos podem envolver leitura de documentos que impactem de alguma forma o sistema em desenvolvimento. Exemplos de documentos incluem padrões da organização, legislação pertinente, atas de reuniões ou entrevistas ocorridas durante o processo de elicitação e também o próprio documento de requisitos sendo elaborado. Nesse processo, a construção do léxico da aplicação é tarefa prioritária, pois nele são registrados os símbolos próprios do domínio da aplicação. O léxico é a base para o entendimento entre clientes, usuários e profissionais de software. [Sayão, Carvalho, 2006]
+
+
+## 2. Objetivo
+
+O objetivo deste documento é documentar o símbolos e vocabulários utilizados nos documentos de requisitos desse projeto, visando assim criar um conhecimento  compartilhado,  diminuindo  dificuldades  de  entendimento  em  relação  a  termos  próprios  do  domínio  da  aplicação.
+
+
+## 3. Léxico Amplicado da Linguagem - LAL
 
 ### Usuário
 | | |
@@ -237,7 +247,7 @@
 | **Impacto** | É o componente com que o [usuário](#usuário) interagirá a fim de atingir suas metas. |
 | **Classificação** | Objeto |
 
-## Cozinheiro
+### Cozinheiro
 | | |
 |-|-|
 | **Nome** | Cozinheiro |
@@ -246,7 +256,7 @@
 | **Impacto** | O cozinheiro pode utilizar o [aplicativo](#aplicativo) publicando suas [receitas](#receita) ou adquirindo novos conhecimentos através de receitas de outros [usuários](#Usuário) |
 | **Classificação** | Objeto |
 
-## Nome de usuário
+### Nome de usuário
 | | |
 |-|-|
 | **Nome** | Nome de usuário |
@@ -255,7 +265,7 @@
 | **Impacto** | O nome pode ser alterado. O nome pode ser conferido na área de configurações da [conta](pages/ponto_de_controle_3/lexico?id=conta) |
 | **Classificação** | Objeto |
 
-## Conta
+### Conta
 | | |
 |-|-|
 | **Nome** | [Conta](pages/ponto_de_controle_3/lexico?id=conta) |
@@ -264,7 +274,7 @@
 | **Impacto** | A [conta](pages/ponto_de_controle_3/lexico?id=conta) pode ser criada e excluída pelo [usuário](#usuário) |
 | **Classificação** | Objeto |
 
-## Configurações da conta
+### Configurações da conta
 | | |
 |-|-|
 | **Nome** | Configurações da [conta](pages/ponto_de_controle_3/lexico?id=conta) |
@@ -273,7 +283,7 @@
 | **Impacto** | As configurações da [conta](pages/ponto_de_controle_3/lexico?id=conta) pode ser acessada pelo [usuário](#usuário) e a partir de lá algumas de suas informações podem ser mudadas. Nas configurações de [conta](pages/ponto_de_controle_3/lexico?id=conta) também é possível deletar a [conta](pages/ponto_de_controle_3/lexico?id=conta). |
 | **Classificação** | Objeto |
 
-## Quadro nutricional
+### Quadro nutricional
 | | |
 |-|-|
 | **Nome** | Quadro nutricional |
@@ -310,3 +320,6 @@
 | **Classificação** | Objeto |
 
 
+## Bibliografia
+
+1. Sayão, Miriam. ; Carvalho, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.

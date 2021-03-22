@@ -69,7 +69,7 @@ A equipe realizou duas entrevitas para a coleta de requisitos e também ter noç
 
 **Entrevistada:** Julia Neves da Silva
 
-##### Você já utilizou alguma plataforma para procurar alguma [receita](pages/ponto_de_controle_3/lexico?id=procurar-receita)?
+##### Você já utilizou alguma plataforma para procurar alguma [ receita](pages/ponto_de_controle_3/lexico?id=procurar-receita)?
 
 **a.** "Quando eu quero fazer alguma [receita](pages/ponto_de_controle_3/lexico?id=receita) eu tendo a ir na internet e entrar em qualquer site que tenha a [receita](pages/ponto_de_controle_3/lexico?id=receita) que eu quero."
 
@@ -79,19 +79,19 @@ A equipe realizou duas entrevitas para a coleta de requisitos e também ter noç
 
 **a.** "Já utilizei sim, e eu geralmente utilizo quando eu não tenho nenhuma [receita](pages/ponto_de_controle_3/lexico?id=receita) na minha cabeça para fazer, para descobrir uma nova [receita](pages/ponto_de_controle_3/lexico?id=receita) ou algo assim."
 
-##### Você acha que esse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) tem facilitado sua vida? Por que?
+##### Você acha que esse [ aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) tem facilitado sua vida? Por que?
 
 **a.** "Eu acho que sim, quando eu estou com preguiça de ir atrás de algo ou eu estou sem criatividade ele é bem bom, mas eu não costumo utilizar ele diariamente, porque como sou vegetariana eu já tenho umas [receitas](pages/ponto_de_controle_3/lexico?id=receita) prontas na minha cabeça."
 
-##### Quais são os maiores defeitos que você enxerga nesse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?
+##### Quais são os maiores defeitos que você enxerga nesse [ aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?
 
 **a.** "Não sei muito dizer, porque faz tempo que eu não mexo no [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo), mas que eu lembro é o [passo a passo](pages/ponto_de_controle_3/lexico?id=passo) de cada [receita](pages/ponto_de_controle_3/lexico?id=receita), porque eu queria uma coisa mais rápida e o [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) fica dando um [passo](pages/ponto_de_controle_3/lexico?id=passo) de cada vez para a [receita](pages/ponto_de_controle_3/lexico?id=receita), mas eu não tenho certeza."
 
-##### Quais são as maiores qualidades que você enxerga nesse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?
+##### Quais são as maiores qualidades que você enxerga nesse [ aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?
 
 **a.** "Eu acho o [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) muito bonito e acho que essa parte de poder escolher os [ingredientes](pages/ponto_de_controle_3/lexico?id=ingrediente) e fazer uma [receita](pages/ponto_de_controle_3/lexico?id=receita) bem legal."
 
-##### Tem algo nos outros [aplicativos](pages/ponto_de_controle_3/lexico?id=aplicativo)/sites que a senhora utilizou que a senhora vê falta no Plant Jammer?
+##### Tem algo nos outros [ aplicativos](pages/ponto_de_controle_3/lexico?id=aplicativo)/sites que a senhora utilizou que a senhora vê falta no Plant Jammer?
 
 **a.** "Além do acesso rápido a [receita](pages/ponto_de_controle_3/lexico?id=receita) final não"
 
@@ -99,7 +99,7 @@ A equipe realizou duas entrevitas para a coleta de requisitos e também ter noç
 
 **Entrevistada:** Claudia Maria da Silva Gomes
 
-##### Você já utilizou alguma plataforma para procurar alguma [receita](pages/ponto_de_controle_3/lexico?id=procurar-receita)?
+##### Você já utilizou alguma plataforma para procurar alguma [ receita](pages/ponto_de_controle_3/lexico?id=procurar-receita)?
 
 **a.** "Eu costumo utilizar uns livros que eu tenho e o meu filho me mostrou o Plant Jammer e como ele é vegetariano eu costumo procurar para ele no [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)."
 
@@ -107,19 +107,19 @@ A equipe realizou duas entrevitas para a coleta de requisitos e também ter noç
 
 **a.** "Foi porque meu filho é vegetariano como eu já disse."
 
-##### Você acha que esse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) tem facilitado sua vida? Por que?
+##### Você acha que esse [ aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo) tem facilitado sua vida? Por que?
 
 **a.** "Sim, eu sou muito ruim para [comida](pages/ponto_de_controle_3/lexico?id=comida), então quando ele se tornou vegetariano eu não sabia o que fazer para ele comer e as vezes como não dá para ele fazer a [comida](pages/ponto_de_controle_3/lexico?id=comida) dele, porque ele está apressado com as coisas da faculdade, então eu tento fazer algo que ele goste."
 
-##### Quais são os maiores defeitos que você enxerga nesse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?
+##### Quais são os maiores defeitos que você enxerga nesse [ aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?
 
 **a.** "Eu acho muito bom."
 
-##### Quais são as maiores qualidades que você enxerga nesse [aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?
+##### Quais são as maiores qualidades que você enxerga nesse [ aplicativo](pages/ponto_de_controle_3/lexico?id=aplicativo)?
 
 **a.** "Eu acho que a variedade de [pratos](pages/ponto_de_controle_3/lexico?id=comida) talvez"
 
-##### Tem algo nos outros [aplicativos](pages/ponto_de_controle_3/lexico?id=aplicativo)/sites que a senhora utilizou que a senhora vê falta no Plant Jammer?
+##### Tem algo nos outros [ aplicativos](pages/ponto_de_controle_3/lexico?id=aplicativo)/sites que a senhora utilizou que a senhora vê falta no Plant Jammer?
 
 **a.** "Acho que não."
 
