@@ -224,9 +224,9 @@
 |-|-|
 | **Nome** | Background |
 | **Sinônimos** | Segundo Plano |
-| **Noção** |  |
-| **Impacto** |  |
-| **Classificação** |  |
+| **Noção** | Os programas em segundo plano possuem um certo consumo para qualquer tipo de alarme ou cache que possa ser necessário quando o usuário por reutiliza-lo |
+| **Impacto** | Quando bem feito, o programa não trava e apresenta uma ótima experiência de usuário |
+| **Classificação** | Estado |
 
 ### Aplicativo
 | | |
