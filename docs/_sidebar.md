@@ -22,9 +22,9 @@
 - [Modelagem](pages/ponto_de_controle_3/lexico.md)
   - [Léxicos](pages/ponto_de_controle_3/lexico.md)
   - [Especificação Suplementar](pages/ponto_de_controle_3/especificacaoSuplementar.md)
+  - [Caso de Uso](pages/ponto_de_controle_3/caso-de-uso.md)
+  - [Cenários](pages/ponto_de_controle_3/cenarios.md)
 <!--
-  - [Cenários]()
-  - [Casos de uso]()
   - [NFR]()
 
 - [Pós-Rastreabilidade]()
