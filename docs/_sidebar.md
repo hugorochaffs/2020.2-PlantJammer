@@ -24,13 +24,6 @@
   - [Especificação Suplementar](pages/ponto_de_controle_3/especificacaoSuplementar.md)
   - [Caso de Uso](pages/ponto_de_controle_3/caso-de-uso.md)
   - [Cenários](pages/ponto_de_controle_3/cenarios.md)
-<!--
-  - [NFR]()
-
-- [Pós-Rastreabilidade]()
-  - [Backward-From]()
-  - [Forward-From]()
--->
 
 - [Apresentações](pages/ponto_de_controle_1/apresentacao.md)
   - [Ponto de Controle 1](pages/ponto_de_controle_1/apresentacao.md)
