@@ -50,14 +50,14 @@ O objetivo desse documento é registrar a etapa de verificação do documento de
         <img src='assets/images/ispecao_especificacao_suplementar.sgv'>
     </a>
     <figcaption align='center'>
-        <b>Figura 1: Diagrama de caso de usos</b>
+        <b>Figura 1: Resultados da inspeçao</b>
         <br>
         <small>Fonte: Autor</small>
     </figcaption>
 </p>
 
 ## 5. Conclusão
-Foi avali
+Após a inspeção foi possivel identificar que 59,1% dos critérios não foram atendidos pelo documento da especificação suplementar.
 
 
 ## Bibliografia
