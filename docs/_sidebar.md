@@ -24,6 +24,7 @@
   - [Especificação Suplementar](pages/ponto_de_controle_3/especificacaoSuplementar.md)
   - [Caso de Uso](pages/ponto_de_controle_3/caso-de-uso.md)
   - [Cenários](pages/ponto_de_controle_3/cenarios.md)
+  - [NFR Framework](pages/ponto_de_controle_4/nfr-framework.md)
 
 - [Apresentações](pages/ponto_de_controle_1/apresentacao.md)
   - [Ponto de Controle 1](pages/ponto_de_controle_1/apresentacao.md)
