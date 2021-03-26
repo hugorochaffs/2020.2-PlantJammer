@@ -25,6 +25,9 @@
   - [Caso de Uso](pages/ponto_de_controle_3/caso-de-uso.md)
   - [Cenários](pages/ponto_de_controle_3/cenarios.md)
 
+- [Análise](pages/ponto_de_controle_5/verificacao_especificacao.md)
+  - [Verificação](pages/ponto_de_controle_5/verificacao_especificacao.md)
+    - [Especificação Suplementar](pages/ponto_de_controle_5/verificacao_especificacao.md)
 - [Apresentações](pages/ponto_de_controle_1/apresentacao.md)
   - [Ponto de Controle 1](pages/ponto_de_controle_1/apresentacao.md)
   - [Ponto de Controle 2](pages/ponto_de_controle_2/apresentacao.md)
@@ -32,3 +35,13 @@
 
 - [Tutoriais](pages/ponto_de_controle_1/tutorial_novo_documento.md)
   - [Como criar novos documentos](pages/ponto_de_controle_1/tutorial_novo_documento.md)
+
+
+<!--
+  - [NFR]()
+
+- [Pós-Rastreabilidade]()
+  - [Backward-From]()
+  - [Forward-From]()
+-->
+
