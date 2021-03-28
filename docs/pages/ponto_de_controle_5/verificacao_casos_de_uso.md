@@ -22,13 +22,13 @@ A avaliação consistirá na verificação de cada item da tabela aplicável ao 
 
 Nota-se a falta da especificação dos casos de uso junto do diagrama de caso de uso. Portanto, alguns itens da tabela de avaliação foram omitidos por se referirem a detalhes que são fornecidos apenas na especificação dos casos de uso. Por decisão do avaliador, o diagrama será avaliado em sua totalidade, englobando todas as tarefas em um único _check-list_ a fim de tornar os resultados da avaliação legíveis e compreensíveis. Tal decisão se baseia na percepção de que todas as tarefas cumprem igualmente os mesmos itens.
 
-| Item | Cumprido |
-| :--: | :------: |
-| Quem está usando o _sistema_ | Sim |
-| Os passsos envolvidos na realização de uma tarefa do usuário | Sim |
-| NÃO exibe aspectos da linguagem de implementação | Sim |
-| NÃO fornece detalhes sobre a interface do usuário ou sobre as telas | Sim |
-| Especifica os casos de uso | **Não** |
+| Item | Cumprido | Justificativa |
+| :--: | :------: | :-----------: |
+| Exibe quem está usando o _sistema_ | Sim | Todas as tarefas partem de um usuário específico no diagrama |
+| Exibe os passsos envolvidos na realização de uma tarefa do usuário | **Não** | Todas as tarefas são descritas em apenas um único passo de alto nível, desconsiderando os relacionamentos de extensão |
+| NÃO exibe aspectos da linguagem de implementação | Sim | As tarefas são descritas em alto nível sem qualquer detalhe de implementação |
+| NÃO fornece detalhes sobre a interface do usuário ou sobre as telas | Sim | O diagrama forncece apenas a sequência lógica das tarefas
+| Especifica os casos de uso | **Não** | Existe a nessidade de se especificar em texto cada caso de uso, descrevendo quem são os atores, fluxos e condições |
 
 ## Referências
 
