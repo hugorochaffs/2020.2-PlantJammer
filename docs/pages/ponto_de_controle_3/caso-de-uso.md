@@ -1,4 +1,4 @@
-# <center> Técnica de Introspecção
+# <center> Casos de Uso
 
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
