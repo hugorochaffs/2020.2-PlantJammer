@@ -1,4 +1,4 @@
-# <center> Técnica de Introspecção
+# <center> NFR Framework
 
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
@@ -9,7 +9,7 @@
 
 ## 1. Introdução
 
-O _NFR Framework_ é um modelo criado para ajudar a modelar requisitos não-funcionais, através de um grafo chamado de _Softgoal Interdependency Graphs_ (SIGs). Neste grafo, os requisitos podem ser analisados detalhadamente, uma vez que o SIG permite uma visão vertical das estratégias de alto nível e também dos detalhes operacionais. Esse detalhamento é viabilizado pelas decomposições das visões de alto nível, por meio de operadores lógicos (AND e OR) que possibilita a granularização até o nível operacional. (CHUNG et al., 2012).
+O _NFR Framework_ é um modelo criado para ajudar a modelar requisitos não-funcionais, através de um grafo chamado de _Softgoal Interdependency Graphs_ (SIGs). Neste grafo, os requisitos podem ser analisados detalhadamente, uma vez que o SIG permite uma visão vertical das estratégias de alto nível e também dos detalhes operacionais. Esse detalhamento é viabilizado pelas decomposições das visões de alto nível, por meio de operadores lógicos (AND e OR) que possibilita a granularização até o nível operacional. (CHUNG et al., 2000).
 
 O _NFR Framework_ utiliza o conceito de metas flexíveis. A noção no SIG para uma meta flexível é um símbolo similar ao de uma nuvem. Esse símbolo possui pequenas variações na forma, podendo representar uma operacionalização (nuvem em negrito), e também uma alegação (nuvem tracejada). (SILVA, 2019).
 
