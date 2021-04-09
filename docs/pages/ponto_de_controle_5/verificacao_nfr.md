@@ -10,13 +10,11 @@
 
 
 ## 1. Introdução
-O objetivo deste é a verificação do documento de NFR, para tal devemos analisar se o modelo desenvolvido está de acordo com as características do NFR Framework.
+O objetivo deste documento é a verificação do documento de NFR. Para tal devemos analisar se o modelo desenvolvido está de acordo com as características do NFR Framework.
 
 
 ## 2. Metodologia
-Para essa verificação, foi utilizada a técnica de leitura checklist. O documento à ser verificado está disponível <a href="https://requisitos-de-software.github.io/2020.2-PlantJammer/#/pages/ponto_de_controle_4/nfr-framework">Aqui.</a>
-
-
+Para essa verificação, foi utilizada a técnica de inspeção para preenchimento de um checklist. O documento a ser verificado está disponível <a href="https://requisitos-de-software.github.io/2020.2-PlantJammer/#/pages/ponto_de_controle_4/nfr-framework">Aqui.</a>
 
 
 ## 3. Resultados
