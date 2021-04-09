@@ -1,14 +1,9 @@
-# <center> Léxicos V2
+# <center> Léxicos
 
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 18/03/2021 |  1.0   | Criação do documento (v1) | Durval Carvalho, Leonardo Gomes e Victor Jorge |
-| 05/04/2021 |  2.0   | Aplicações de correções no documento (v2) | Durval Carvalho |
-
-##### Versões anteriores deste documento
-
-- [Versão 1](pages/ponto_de_controle_3/lexico_v1.md)
+| 18/03/2021 |  0.1   | Criação do documento | Durval Carvalho, Leonardo Gomes e Victor Jorge |
 
 <!-- Esse documento ainda será escrito -->
 
@@ -30,8 +25,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 | **Nome** | Usuário |
 | **Sinônimos** | Cliente, Utilizador |
 | **Noção** | Termo que se refere às pessoas que utilizam o [aplicativo](#Aplicativo) |
-| **Impacto** | O Usuário é o agente que realiza a maioria das ações no [aplicativo](#Aplicativo). Algumas das ações são: Criar [receitas](#Receita), pesquisar [receitas](#Receita), avaliar [receitas](#Receita), escolher [ingredientes](#Ingrediente) e outros. |
-| **Classificação** | Sujeito |
+| **Impacto** | Pessoa que realiza todas atividades no [aplicativo](#Aplicativo) |
+| **Classificação** | Objeto |
 
 
 ### Saudável
@@ -39,8 +34,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Saudável |
 | **Sinônimos** | Sadio, Natural |
-| **Noção** | Saudável é o estado que descreve [alimentos](#Comida) naturais e frecos. Sendo o objetivo do [aplicativo](#Aplicativo) agrupar [receitas](#Receita) de [alimento](#Comida) saudáveis. |
-| **Impacto** | Além de saudáveis, os [alimentos](#Comida) podem ser não saudáveis, geralmente [alimentos](#Comida) processados, com alto teor de gordura e açúcar. |
+| **Noção** | Termo utilizado para se referir a [alimentos](#Comida) naturais e frecos. |
+| **Impacto** | Classificação de um [alimento](#Comida) |
 | **Classificação** | Estado |
 
 ### Receita
@@ -48,8 +43,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Receita |
 | **Sinônimos** | Pratos |
-| **Noção** | Uma receita é composta por [ingredientes](#Ingrediente) e é registrada por um [usuário](#Usuário) (comum ou um [Chef](#Cozinheiro)). O objetivo da receita é fazer um [alimento](#Comida) [saudável](#Saudável). |
-| **Impacto** | Uma receita pode ser utilizada para se [preparar uma refeição](#preparar-receita). Para isso é preciso seguir os [passos](#Passo) e os [ingredientes](#Ingrediente) definidos na receita. |
+| **Noção** | Conjunto de orientações e [passos](#Passo) que ajudam os [usuários](#Usuário) prepararem pratos de comida |
+| **Impacto** | Informação que revela como um determinado [alimento](#Comida) é feito |
 | **Classificação** | Objeto |
 
 ### Passo
@@ -58,7 +53,7 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 | **Nome** | Passo |
 | **Sinônimos** | Etapa, atividade  |
 | **Noção** | Ação realizada com um [ingrediente](#Ingrediente) visando a elaboração de uma [receita](#receita) |
-| **Impacto** | Os passos podem ser executados pelos [usuários](#Usuário), conforme descritos na [receita](#Receita), para no fim se obter um [alimento](#Comida) |
+| **Impacto** | Os usuários realizam diversos passos com os [ingredientes](#Ingrediente), para no fim se obter um [alimento](#Comida) |
 | **Classificação** | Objeto |
 
 ### Comida
@@ -66,8 +61,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Comida |
 | **Sinônimos** | Alimento, Prato de Comida, Refeição |
-| **Noção** | A comida é o resultado final obtido após a execução de todos os [passos](#Passo) definidos em uma [receita](#Receita), com determinados [ingredientes](#Ingrediente). |
-| **Impacto** | Um alimento pode ser consumido |
+| **Noção** | Aquilo que se come ou que serve pra comer |
+| **Impacto** | Resultado de uma [receita](#receita) que foi preparada |
 | **Classificação** | Objeto |
 
 
@@ -76,8 +71,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Ingrediente  |
 | **Sinônimos** | Indicação |
-| **Noção** | Os ingredientes são [alimentos](#Comida) que podem ser utilizados para [preparar]((#preparar-receita)) uma [receita](#receita) |
-| **Impacto** | Os ingredientes são utilizados nas [receitas](#Receita). Os ingredientes são classificados de acordo com seu gosto e aroma. Os ingredientes são processados de diversas maneiras (cozinhados, assados, refogados, defumados, etc) |
+| **Noção** | Substância que é utilizada em uma receita |
+| **Impacto** | Os ingredientes são classificados de acordo com seu gosto e são utilizados em diversas [receitas](#receita) |
 | **Classificação** | Objeto |
 
 ### Anúncio
@@ -86,7 +81,7 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 | **Nome** | Anúncio |
 | **Sinônimos** | Indicação, propaganda, publicidade |
 | **Noção** | Texto ou imagem publicitário que surge na tela de usuários não [Premium](#Premium). Os anúncios são uma fonte de receita provinientes de [usuários](#Usuário) que não pagam pelo [aplicativo](#Aplicativo) |
-| **Impacto** | Os anúncios que aparecem na tela do [aplicativo](#Aplicativo) podem ser assistidos, clicados e fechados pelos usuários. |
+| **Impacto** | Os anúncios aparecem na tela de usuários comuns de tempos em tempos. |
 | **Classificação** | Objeto |
 
 
@@ -95,9 +90,9 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Premium, Prime |
 | **Sinônimos** | Assinatura paga |
-| **Noção** | Todo [usuário](#Usuário) possui um plano de assinatura, podendo ser um plano gratuito ou um plano Premium. Um [usuário](#Usuário) com plano Premium tem acesso a funcionalidades que usuários com plano comum não tem. Sendo a principal delas a não visualização de [anúncios](#Anúncio) dentro do [aplicativo](#Aplicativo). |
-| **Impacto** | Os planos dos usuários podem ser gratuítos ou Premium. A mudança do estado do plano está associado ao pagamento da assinatura do [aplicativo](#Aplicativo). |
-| **Classificação** | Estado |
+| **Noção** | Assinatura de [usuários](#Usuário) que tem acesso ilimitado aos recursos do aplicativo. As assinaturas premium são uma fonte de receita provinentes de [usuários](#Usuário) que pagam mensalmente pelo uso do [aplicativo](#Aplicativo) |
+| **Impacto** | Os [usuários](#Usuário) quando pagam por um determinado tempo de assinatura recebem uma assinatura Premium |
+| **Classificação** | Objeto |
 
 
 ### Pesquisar Receita
@@ -105,8 +100,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Pesquisar Receita |
 | **Sinônimos** | Procurar receita, Buscar Receita  |
-| **Noção** | Os usuários realizam pesquisas no aplicativo digitando termos e aplicando filtros. Os resultados obtidos são [receitas](#receita) que atendem aos critérios de pesquisa. |
-| **Impacto** | O resultado dessa ação do [usuário](#Usuário) é a obtenção de uma lista de [receitas](#receita) que atendem aos critérios definidos pelo [usuário](#Usuário). |
+| **Noção** | Os usuários utilizam a barra de pesquisas para pesquisar por determinadas [receitas](#receita) |
+| **Impacto** | Após entrar no [aplicativo](#Aplicativo) o usuário pode pesquisar por [receitas](#receita) |
 | **Classificação** | Verbo |
 
 
@@ -115,8 +110,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Preparar Receita |
 | **Sinônimos** | Cozinhar receita, Realizar Receita  |
-| **Noção** | Uma [receita](#receita) é preparada por um [usuário](#Usuário) quando todos os [passos](#Passo) são seguidos, com determinados [ingredientes](#Ingrediente).
-| **Impacto** | O resultado do preparo de uma [receita](#receita) é um [alimento](#Comida) [saudável](#Saudável). |
+| **Noção** | Os [usuários](#Usuário) seguem os [passos](#Passo) definidos na receita para preparar um [alimento](#Comida) |
+| **Impacto** | Após entrar no [aplicativo](#Aplicativo) o usuário pode [pesquisar](#pesquisar-receita) por [receitas](#receita) |
 | **Classificação** | Verbo |
 
 ### Avaliar Receita
@@ -124,8 +119,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Avaliar Receita |
 | **Sinônimos** | Qualificar Receita, Dar nota |
-| **Noção** | Os [usuários](#Usuário) quando acessam a página de detalhamento de uma [receita](#receita) pode avaliá-la, clicando no widget de avaliação. |
-| **Impacto** | Uma [receita](#receita) com muitas avaliações se torna mais revelante, tendo maior destaque nos [resultados das pesquisas](#pesquisar-receita) e nos destaques na página inicial do [aplicativo](#Aplicativo). |
+| **Noção** | Os [usuários](#Usuário) podem avaliar a qualidade de uma [receitas](#receita) com seus próprios critérios |
+| **Impacto** | Após acessar a página de uma [receitas](#receita), o [usuário](#Usuário) pode avaliar uma [receita](#receita) |
 | **Classificação** | Verbo |
 
 ### Compartilhar uma Receita
@@ -133,8 +128,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Compartilhar uma Receita |
 | **Sinônimos** | Enviar o link de uma receita |
-| **Noção** | Os [usuários](#Usuário) quando acessam a página de detalhamento de uma [receitas](#receita) pode clicar no widget de compartilhamento para enviar a receita para seus amigos |
-| **Impacto** | Uma [receita](#receita) que recebe muitas visualizações de usuários se torna mais relevante, tendo maior destaque nos [resultados das pesquisas](#pesquisar-receita) |
+| **Noção** | Os [usuários](#Usuário) podem compartilhar uma [receitas](#receita) com seus amigos |
+| **Impacto** | Após acessar a página de uma [receitas](#receita), o [usuário](#Usuário) pode clicar em "Compartilhar a [receita](#receita)" |
 | **Classificação** | Verbo |
 
 ### Fazer Login
@@ -142,8 +137,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Compartilhar uma Receita |
 | **Sinônimos** | Sign in, Entrar |
-| **Noção** | O [usuário](#Usuário) ao entrar no [aplicativo](#Aplicativo) pela primeira vez ou após deslogar, pode se autentificar utilizando o email e senha, ou a conexão com alguma rede social previamente cadastrada. |
-| **Impacto** | Após a autentificação o [usuário](#Usuário) irá carregar todos os dados previamente definidos ([receitas](#receita) favoritadas, configurações de conta, [restrições alimentares](#restrição-alimentar) registradas, etc.) |
+| **Noção** | Fazer login significa colocar informações de identificação para ter acesso a uma [conta](pages/ponto_de_controle_3/lexico?id=conta) já criada. |
+| **Impacto** | O [usuário](#Usuário) que já possui um cadastro coloca suas informações de identificação. |
 | **Classificação** | Verbo |
 
 
@@ -152,17 +147,18 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Compartilhar uma Receita |
 | **Sinônimos** | Sign up, registrar |
-| **Noção** | O usuário pode criar uma conta no aplicativo utilizando email e senha ou a conexão com alguma rede social.
-| **Impacto** | Após a realização do cadastro o [usuário](#Usuário) poderá acessar as principais funcionalidades do [aplicativo](#Aplicativo) e poderá perpeturar suas configurações.
+| **Noção** | Cadastrar significa criar uma [conta](pages/ponto_de_controle_3/lexico?id=conta) no [aplicativo](#Aplicativo) colocando informações pessoais. |
+| **Impacto** | O cadastro do [usuário](#Usuário) permite que o [sistema](#Aplicativo) reconheça e diferencie cada pessoa. |
 | **Classificação** | Verbo |
+
 
 ### Estar Logado
 | | |
 |-|-|
 | **Nome** | Estar Logado |
 | **Sinônimos** | Estar autenticado, Estar identificado, acessando com autenticação |
-| **Noção** | Logado é o estado da conta de um [usuário](#Usuário). A realização de um [cadastro](#Fazer-Cadastro) de conta ou de [login](#Fazer-Login) leva a esse estado. |
-| **Impacto** | Uma conta logada pode ser deslogada ou deletada |
+| **Noção** | O [usuário](#Usuário) quando [realiza login](#Fazer-Login) no aplicativo, fica com o estado logado |
+| **Impacto** | Uma vez que [usuário](#Usuário) o esteja logado, é possível recuperar as informações salvas em usos anteriores |
 | **Classificação** | Estado |
 
 
@@ -171,9 +167,9 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Restrição Alimentar |
 | **Sinônimos** | Restrição Alimentar, Limitação Alimentar |
-| **Noção** | Uma conta com restrições alimentares são contas que foram definidas para não mostrar [receitas](#receita) que possuem [ingredientes](#Ingrediente) ingredientes na lista de [ingredientes](#Ingrediente) restritos. Para configurar uma conta com restrições alimentares o [usuário](#Usuário) deve adicionar [ingredientes](#Ingrediente) na lista de [ingredientes](#Ingrediente) restritos |
-| **Impacto** | Uma conta pode se tornar "Com restrições alimentares" quando há [ingredientes](#Ingrediente) na lista de [ingredientes](#Ingrediente) restritos. |
-| **Classificação** | Estado |
+| **Noção** | São [ingredientes](#Ingrediente) que alguns [usuário](#Usuário) são intolerantes, tem alergia ou preferem não comer |
+| **Impacto** | Cada [usuário](#Usuário) pode definir quais [alimentos](#Comida) serão adicionados à sua lista de [alimentos](#Comida) restritos |
+| **Classificação** | Objeto |
 
 
 ### Aroma
@@ -181,8 +177,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Aroma |
 | **Sinônimos** | Cheiro, Essência |
-| **Noção** | Os aromas são características dos [ingredientes](#Ingrediente) |
-| **Impacto** | Os aromas podem ser filtrados e utilizados para buscar [ingredientes](#Ingrediente) e [alimentos](#Comida). Esses aromas podem ser ou não recomendados na criação de uma [receita](#receita). |
+| **Noção** | Odor exalado pelos [ingredientes](#Ingrediente) |
+| **Impacto** | Cada [ingredientes](#Ingrediente) possui um conjunto de aromas associados, que podem ou não ser recomendados na criação de uma [receitas](#receita). |
 | **Classificação** | Objeto |
 
 ### Sabores
@@ -190,8 +186,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Sabores |
 | **Sinônimos** | Gostos, Gustação |
-| **Noção** | Os sabores são características associadas com os [ingredientes](#Ingrediente) |
-| **Impacto** | Os sabores podem ser filtrados e utilizados para buscar [ingredientes](#Ingrediente) e [alimentos](#Comida). Esses sabores podem ou não ser recomendados na criação de uma [receitas](#receita). |
+| **Noção** | Gostos dos [ingredientes](#Ingrediente) percebidos pelo paladar humano |
+| **Impacto** | Cada [ingredientes](#Ingrediente) possui um conjunto de gostos associados, que podem ou não ser recomendados na criação de uma [receitas](#receita). |
 | **Classificação** | Objeto |
 
 
@@ -220,7 +216,7 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Porções |
 | **Sinônimos** | Fração, Fatias, Divisão |
-| **Noção** | Porções são a quantidade de pessoas que uma determinada [receita](#receita) é capaz de servir. |
+| **Noção** | Quantidade de pessoas que podem ser servidas pela [receita](#receita) |
 | **Impacto** | O [usuário](#Usuário) pode modificar a quantidade de porções aumentando ou diminuindo a quantidade de [ingredientes](#Ingrediente) que serão usados na [receita](#receita). O usuário também pode mudar a quantidade de [ingredientes](#Ingrediente) aumentando ou diminuindo a quantidade de porções que a [refeição](#Comida) deve servir |
 | **Classificação** | Objeto |
 
@@ -238,8 +234,8 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Background |
 | **Sinônimos** | Segundo Plano |
-| **Noção** | Background é o estado de um [aplicativo](#Aplicativo) que foi iniciado mas não está em modo de exibição na tela do smartphone. [Aplicativos](#Aplicativo) nesse estado são carregados mais rapidamente e realizam algumas tarefas como downloads, alertas e etc. |
-| **Impacto** | Um [aplicativo](#Aplicativo) pode está em fechado, em execução ou em background. |
+| **Noção** | Os programas em segundo plano possuem um certo consumo para qualquer tipo de alarme ou cache que possa ser necessário quando o usuário por reutiliza-lo |
+| **Impacto** | Quando bem feito, o programa não trava e apresenta uma ótima experiência de usuário |
 | **Classificação** | Estado |
 
 ### Aplicativo
@@ -248,7 +244,7 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 | **Nome** | Aplicativo |
 | **Sinônimos** | App, Sistema, Plataforma |
 | **Noção** | É um programa de computador concebido para processar dados eletronicamente, facilitando e reduzindo o tempo de execução de uma tarefa pelo usuário. O termo [aplicativo](#Aplicativo) geralmente se refere a uma classe de programas de computador que executam em dispositivos móveis. Neste contexto, o termo aplicativo se refere ao *Plant Jammer* em toda sua completude de funcionalidades. |
-| **Impacto** | O aplicativo pode ser aberto, fechado, deletado de um smartphone. |
+| **Impacto** | É o componente com que o [usuário](#usuário) interagirá a fim de atingir suas metas. |
 | **Classificação** | Objeto |
 
 ### Cozinheiro
@@ -258,7 +254,7 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 | **Sinônimos** | Chef, [Usuário](#Usuário) |
 | **Noção** | O cozinheiro tem uma atuação que exige habilidade com as panelas, nas combinações dos temperos e no corte certo das carnes. O profissional prepara todos os alimentos da cozinha e trabalha em conjunto com o chef de cozinha. |
 | **Impacto** | O cozinheiro pode utilizar o [aplicativo](#aplicativo) publicando suas [receitas](#receita) ou adquirindo novos conhecimentos através de receitas de outros [usuários](#Usuário) |
-| **Classificação** | Sujeito |
+| **Classificação** | Objeto |
 
 ### Nome de usuário
 | | |
@@ -300,7 +296,7 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 | | |
 |-|-|
 | **Nome** | Dieta |
-| **Sinônimos** | Jejuns de certos alimentos, privação de certas refeições |
+| **Sinônimos** | |
 | **Noção** | É um padrão alimentar adotado pelo [usuário](#usuário) a fim de se alcançar um objetivo nutricional, como por exemplo, reduzir a quantidade de sódio ingerido. A dieta é um dos pilares do [aplicativo](#aplicativo) e influencia nas sugestões de [pratos](#receita) |
 | **Impacto** | Cada [usuário](#Usuário) pode definir quais são suas metas alimentares |
 | **Classificação** | Objeto |
@@ -310,7 +306,7 @@ O objetivo deste documento é documentar o símbolos e vocabulários utilizados 
 |-|-|
 | **Nome** | Compartilhar aplicativo |
 | **Sinônimos** | Compartilhar o app |
-| **Noção** | O [usuário](#usuário) que gostam do [aplicativo](#aplicativo) pode compartilhar o link para download e enviá-lo para amigos utilizando outras redes sociais. |
+| **Noção** | O [usuário](#usuário) pode compartilhar o [aplicativo](#aplicativo) quando desejar. O [aplicativo](#aplicativo) pode ser compartilhado através do mecanismo de compartilhamento por proximidade, ou indicando o nome do [App](#aplicativo) a quem se deseja compartilhar. |
 | **Impacto** | Outra pessoa receberá o convite e poderá entrar no aplicativo através do registro de [contas](#conta). |
 | **Classificação** | Verbo |
 
