@@ -20,7 +20,7 @@
   - [MoSCoW](pages/ponto_de_controle_2/moscow.md)
 
 - [Modelagem](pages/ponto_de_controle_3/lexico.md)
-  - [Léxicos](pages/ponto_de_controle_3/lexico.md)
+  - [Léxicos V2](pages/ponto_de_controle_3/lexico.md)
   - [Especificação Suplementar](pages/ponto_de_controle_3/especificacaoSuplementar.md)
   - [Caso de Uso](pages/ponto_de_controle_3/caso-de-uso.md)
   - [Cenários](pages/ponto_de_controle_3/cenarios.md)
@@ -32,6 +32,9 @@
     - [Verificação Especificação Suplementar](pages/ponto_de_controle_5/verificacao_especificacao.md)
     - [Verificação Casos de Uso](pages/ponto_de_controle_5/verificacao_casos_de_uso.md)
     - [Verificação NFR](pages/ponto_de_controle_5/verificacao_nfr.md)
+    - [Verificação MoSCoW](pages/ponto_de_controle_5/verificacao_moscow.md)
+    - [Verificação dos Léxicos](pages/ponto_de_controle_5/verificacao_lexicos.md)
+    - [Verificação do Backlog do Produto](pages/ponto_de_controle_5/verificacao_backlog_do_produto.md)
 
 - [Apresentações](pages/ponto_de_controle_1/apresentacao.md)
   - [Ponto de Controle 1](pages/ponto_de_controle_1/apresentacao.md)
