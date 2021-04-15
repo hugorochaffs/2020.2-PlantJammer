@@ -30,8 +30,8 @@ João Victor
 ```
 <div align='center'>
     <p>Rich Picture da aplicação Plant Jammer</p>
-    <a href='assets/images/rich_picture_en.png' target='_blank'>
-        <img src='assets/images/rich_picture_en.png'>
+    <a href='assets/images/rich_pictures_en.png' target='_blank'>
+        <img src='assets/images/rich_pictures_en.png'>
     </a>
     <figcaption align='center'>
       <b>Figura 1: rich picture do Plant Jammer</b>

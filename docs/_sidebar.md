@@ -28,7 +28,7 @@
   - [Backlog do Produto](pages/ponto_de_controle_4/backlog.md)
 
 - [Análise](pages/ponto_de_controle_5/verificacao_especificacao.md)
-    - [Verificação](pages/ponto_de_controle_5/verificacao_especificacao.md)
+    - Verificação
       - [Verificação Especificação Suplementar](pages/ponto_de_controle_5/verificacao_especificacao.md)
       - [Verificação Casos de Uso](pages/ponto_de_controle_5/verificacao_casos_de_uso.md)
       - [Verificação NFR](pages/ponto_de_controle_5/verificacao_nfr.md)
