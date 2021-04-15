@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 15/04/2021 |  0.1   | Criação do documento | Durval Carvalho |
+| 15/04/2021 |  0.2   | Ajuste de erro ortográfico na conclusão | Leonardo Gomes |
 
 <div align="justify">
 
@@ -42,7 +43,7 @@ O tópico 4.1. apresenta o subconjunto de funcionalidades referente ao cenário 
 
 Pode-se concluir que por meio da prototipação de alta fidelidade é possível ter uma visualização muito próxima do produto final e de como o sistema deve ser e evitar que erros sejam cometidos em processos iniciais o que acarreta em mais custo em refatorações e manutenções, além de também ficar mais claro qual design o sistema deverá ter, de forma mais detalhada
 
-Com base nos protótipos apresentados nesse documento, será possível planejar e executar uma avaliação do design pensando e validação de requisitos, para assim consolidar algumas ideias dos projetistas da aplicação.
+Com base nos protótipos apresentados nesse documento, será possível planejar e executar uma avaliação do design pensando e validando os requisitos, para assim consolidar algumas ideias dos projetistas da aplicação.
 
 ## Bibliografia
 
