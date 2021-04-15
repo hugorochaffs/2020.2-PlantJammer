@@ -28,13 +28,13 @@
   - [Backlog do Produto](pages/ponto_de_controle_4/backlog.md)
 
 - [Análise](pages/ponto_de_controle_5/verificacao_especificacao.md)
-
-    - [Verificação Especificação Suplementar](pages/ponto_de_controle_5/verificacao_especificacao.md)
-    - [Verificação Casos de Uso](pages/ponto_de_controle_5/verificacao_casos_de_uso.md)
-    - [Verificação NFR](pages/ponto_de_controle_5/verificacao_nfr.md)
-    - [Verificação MoSCoW](pages/ponto_de_controle_5/verificacao_moscow.md)
-    - [Verificação dos Léxicos](pages/ponto_de_controle_5/verificacao_lexicos.md)
-    - [Verificação do Backlog do Produto](pages/ponto_de_controle_5/verificacao_backlog_do_produto.md)
+  - [Verificação Especificação Suplementar](pages/ponto_de_controle_5/verificacao_especificacao.md)
+  - [Verificação Casos de Uso](pages/ponto_de_controle_5/verificacao_casos_de_uso.md)
+  - [Verificação NFR](pages/ponto_de_controle_5/verificacao_nfr.md)
+  - [Verificação MoSCoW](pages/ponto_de_controle_5/verificacao_moscow.md)
+  - [Verificação dos Léxicos](pages/ponto_de_controle_5/verificacao_lexicos.md)
+  - [Verificação do Backlog do Produto](pages/ponto_de_controle_5/verificacao_backlog_do_produto.md)
+  - [Prototipagem](pages/ponto_de_controle_5/prototipagem.md)
 
 - [Apresentações](pages/ponto_de_controle_1/apresentacao.md)
   - [Ponto de Controle 1](pages/ponto_de_controle_1/apresentacao.md)
@@ -48,7 +48,6 @@
 
 <!--
   - [NFR]()
-
 - [Pós-Rastreabilidade]()
   - [Backward-From]()
   - [Forward-From]()
