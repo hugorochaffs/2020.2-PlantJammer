@@ -37,7 +37,7 @@
       - [Verificação do Backlog do Produto](pages/ponto_de_controle_5/verificacao_backlog_do_produto.md)
     - [Validação](pages/ponto_de_controle_5/validacao_informal.md)
       - [Validação Informal](pages/ponto_de_controle_5/validacao_informal.md)
-
+  
 - [Apresentações](pages/ponto_de_controle_1/apresentacao.md)
   - [Ponto de Controle 1](pages/ponto_de_controle_1/apresentacao.md)
   - [Ponto de Controle 2](pages/ponto_de_controle_2/apresentacao.md)
@@ -50,7 +50,6 @@
 
 <!--
   - [NFR]()
-
 - [Pós-Rastreabilidade]()
   - [Backward-From]()
   - [Forward-From]()
