@@ -35,8 +35,10 @@
       - [Verificação MoSCoW](pages/ponto_de_controle_5/verificacao_moscow.md)
       - [Verificação dos Léxicos](pages/ponto_de_controle_5/verificacao_lexicos.md)
       - [Verificação do Backlog do Produto](pages/ponto_de_controle_5/verificacao_backlog_do_produto.md)
+      - [Verificação dos Cenários](pages/ponto_de_controle_5/verificacao_cenarios.md)
     - [Validação](pages/ponto_de_controle_5/validacao_informal.md)
       - [Validação Informal](pages/ponto_de_controle_5/validacao_informal.md)
+      - [Prototipagem](pages/ponto_de_controle_5/prototipagem.md)
   
 - [Apresentações](pages/ponto_de_controle_1/apresentacao.md)
   - [Ponto de Controle 1](pages/ponto_de_controle_1/apresentacao.md)
