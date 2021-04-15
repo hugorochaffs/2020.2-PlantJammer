@@ -9,7 +9,7 @@
 
 ## 1. Introdução
 
-Verificação é um estratégia que nos ajuda a comprovar se todos os métodos, estratégias e conclusões estão corretamente estruturados em um artefato e se principal traz algum retorno contundente para a implementação/refatoração da aplicação.
+Verificação é um estratégia que nos ajuda a comprovar se todos os métodos, estratégias e conclusões estão corretamente estruturados em um artefato e se principalmente traz algum retorno contundente para a implementação/refatoração da aplicação.
 
 * Autor do documento: João Victor e Durval Carvalho
 * Inspetor: Leonardo da Silva Gomes
