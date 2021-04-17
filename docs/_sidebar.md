@@ -45,6 +45,7 @@
   - [Ponto de Controle 2](pages/ponto_de_controle_2/apresentacao.md)
   - [Ponto de Controle 3](pages/ponto_de_controle_3/apresentacao.md)
   - [Ponto de Controle 4](pages/ponto_de_controle_4/apresentacao.md)
+  - [Ponto de Controle 5](pages/ponto_de_controle_5/apresentacao.md)
 
 - [Tutoriais](pages/ponto_de_controle_1/tutorial_novo_documento.md)
   - [Como criar novos documentos](pages/ponto_de_controle_1/tutorial_novo_documento.md)
