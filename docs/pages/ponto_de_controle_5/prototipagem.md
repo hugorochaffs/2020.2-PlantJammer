@@ -32,13 +32,7 @@ Foi realizado uma prototipação vertical, isso é, um protótipo que explora um
 
 ### 4.1. Protótipo - Criar pasta para salvar receitas
 
-<iframe
-    style="border: 1px solid rgba(0, 0, 0, 0.1);"
-    width="800"
-    height="450"
-    src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/file/CPsYWbgGvmzUtJ73jJDI3J/?node-id=107%3A2"
-    allowfullscreen
-></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="400" height="750" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCPsYWbgGvmzUtJ73jJDI3J%2FPlantJammer%3Fnode-id%3D111%253A15%26scaling%3Dscale-down%26page-id%3D104%253A2" allowfullscreen></iframe>
 
 ### 4.2. Protótipo - Alterar unidade de medida ou linguagem do app
 
