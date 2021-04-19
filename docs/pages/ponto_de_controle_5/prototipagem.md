@@ -24,24 +24,23 @@ Com isso em mente, esse documento visa apresentar os protótipos que foram feito
 
 Foi realizado uma prototipação vertical, isso é, um protótipo que explora um subgrupo de funcionalidades do sistema.
 
-O tópico 4.1. apresenta o subconjunto de funcionalidades referente ao cenário [C11 - Criar pasta para salvar receitas](pages/ponto_de_controle_3/cenarios?id=c11-criar-pasta-para-salvar-receitas).
+> O tópico 4.1. apresenta o subconjunto de funcionalidades referente ao cenário [C11 - Criar pasta para salvar receitas](pages/ponto_de_controle_3/cenarios?id=c11-criar-pasta-para-salvar-receitas).
 
+> O tópico 4.2. apresenta um conjunto de interações que simulam a concretização do cenário [C12 - Alterar unidade de medida ou linguagem do app](pages/ponto_de_controle_3/cenarios?id=c12-alterar-unidade-de-medida-ou-linguagem-do-app)
 
 ## 4. Resultados
 
 ### 4.1. Protótipo - Criar pasta para salvar receitas
 
-<iframe
-    style="border: 1px solid rgba(0, 0, 0, 0.1);"
-    width="800"
-    height="450"
-    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCPsYWbgGvmzUtJ73jJDI3J%2FPlantJammer%3Fnode-id%3D104%253A2"
-    allowfullscreen
-></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="400" height="750" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCPsYWbgGvmzUtJ73jJDI3J%2FPlantJammer%3Fnode-id%3D111%253A15%26scaling%3Dscale-down%26page-id%3D104%253A2" allowfullscreen></iframe>
+
+### 4.2. Protótipo - Alterar unidade de medida ou linguagem do app
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="400" height="750" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCPsYWbgGvmzUtJ73jJDI3J%2FPlantJammer%3Fnode-id%3D133%253A138%26scaling%3Dmin-zoom%26page-id%3D107%253A2" allowfullscreen></iframe>
 
 ## 5. Conclusão
 
-Pode-se concluir que por meio da prototipação de alta fidelidade é possível ter uma visualização muito próxima do produto final e de como o sistema deve ser e evitar que erros sejam cometidos em processos iniciais o que acarreta em mais custo em refatorações e manutenções, além de também ficar mais claro qual design o sistema deverá ter, de forma mais detalhada
+Pode-se concluir que por meio da prototipação de alta fidelidade é possível ter uma visualização muito próxima do produto final e de como o sistema deve ser e evitar que erros sejam cometidos em processos iniciais o que acarreta em mais custo em refatorações e manutenções, além de também ficar mais claro qual design o sistema deverá ter, de forma mais detalhada.
 
 Com base nos protótipos apresentados nesse documento, será possível planejar e executar uma avaliação do design pensando e validando os requisitos, para assim consolidar algumas ideias dos projetistas da aplicação.
 
