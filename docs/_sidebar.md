@@ -39,7 +39,10 @@
     - [Validação](pages/ponto_de_controle_5/validacao_informal.md)
       - [Validação Informal](pages/ponto_de_controle_5/validacao_informal.md)
       - [Prototipagem](pages/ponto_de_controle_5/prototipagem.md)
-  
+
+- [Pós-Rastreabilidade](pages/ponto_de_controle_6/forward_from.md)
+  - [Forward-From](pages/ponto_de_controle_6/forward_from.md)
+
 - [Apresentações](pages/ponto_de_controle_1/apresentacao.md)
   - [Ponto de Controle 1](pages/ponto_de_controle_1/apresentacao.md)
   - [Ponto de Controle 2](pages/ponto_de_controle_2/apresentacao.md)
