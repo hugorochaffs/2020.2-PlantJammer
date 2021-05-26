@@ -39,10 +39,21 @@ O objetivo desse documento é registrar a etapa de verificação do documento de
 | 11 | O documento possui cenários suficientes para ser usado como insumo para a aplicação | ❌ | ❌ | ✅ |
 
 ## 5. Conclusão
-Após a inspeção foi possivel identificar que 18,18% dos critérios não foram atendidos pelo documento de cenários. Onde podemos citar a defasagem em algumas partes como:
+Após a inspeção foi possivel identificar que 15,4% dos critérios não foram atendidos pelo documento de cenários. Onde podemos citar a defasagem em algumas partes como:
 - Haver melhor esclarecimento dos usuários, sendo eles muito genéricos.
 - Haver discordância entre os recursos exigidos, mostrando que em alguns cenários há ausência de recursos ou excesso em outros. 
 - Melhor estruturação dos cenários para outros autores, como chefs.
+
+<p align='center'>
+    <a href='assets/images/graficoCenario.png' target='_blank'>
+        <img src='assets/images/graficoCenario.png'>
+    </a>
+    <figcaption align='center'>
+        <b>Gráfico</b>
+        <br>
+        <small>Fonte: Autor</small>
+    </figcaption>
+</p>
 
 ## Bibliografia
 
