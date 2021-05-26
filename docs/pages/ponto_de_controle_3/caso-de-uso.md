@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 21/03/2021 |  0.1   | Criação do documento | Durval Carvalho |
+| 26/05/2021 |  0.2   | Adição de Casos de Uso | Hugo Rocha |
 
 <div align="justify">
 
@@ -32,8 +33,21 @@ O objetivo desse documento é apresentar as principais funcionalidades do sistem
     </figcaption>
 </p>
 
+## 4. Casos de Uso Cadastros
 
-## 4. Conclusão
+<p align='center'>
+    <a href='assets/images/user-cases-cad.png' target='_blank'>
+        <img src='assets/images/user-cases-cad.png'>
+    </a>
+    <figcaption align='center'>
+        <b>Figura 2: Diagrama de caso de usos de cadastros</b>
+        <br>
+        <small>Fonte: Autor</small>
+    </figcaption>
+</p>
+
+
+## 5. Conclusão
 
 O diagrama produzido irá auxiliar no processo de validação com os stakeholders, uma vez que é uma forma visual e simples de representar as principais funcionalidades do sistema e as interações entre usuários e casos de uso.
 
