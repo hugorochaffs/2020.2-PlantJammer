@@ -5,6 +5,7 @@
   - [Planejamento do projeto](pages/ponto_de_controle_1/planejamento_projeto.md)
   - [Planejamento da equipe](pages/ponto_de_controle_1/planejamento_equipe.md)
   - [5W2H](pages/ponto_de_controle_2/52wh.md)
+  
 
 
 - [Elicitação](pages/ponto_de_controle_2/personas.md)
@@ -18,6 +19,7 @@
 
 - [Priorização](pages/ponto_de_controle_2/moscow.md)
   - [MoSCoW](pages/ponto_de_controle_2/moscow.md)
+  - [First Things First](pages/ponto_de_controle_2/ftf.md)
 
 - [Modelagem](pages/ponto_de_controle_3/lexico.md)
   - [Léxicos V2](pages/ponto_de_controle_3/lexico.md)
