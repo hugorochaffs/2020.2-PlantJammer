@@ -33,7 +33,9 @@ O objetivo desse documento é apresentar as principais funcionalidades do sistem
     </figcaption>
 </p>
 
-## 4. Casos de Uso Cadastros
+## 4. Especificação dos casos de uso
+
+### Casos de Uso Cadastros via email e conta Google
 
 <p align='center'>
     <a href='assets/images/user-cases-cad.png' target='_blank'>
