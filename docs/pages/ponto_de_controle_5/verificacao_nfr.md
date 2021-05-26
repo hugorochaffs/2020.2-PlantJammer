@@ -39,6 +39,17 @@ Para essa verificação, foi utilizada a técnica de inspeção para preenchimen
 
  O documento está muito bem escrito e de acordo com o que se espera. Todos os elementos foram bem utilizados.
 
+ <p align='center'>
+    <a href='assets/images/graficoNFR.png' target='_blank'>
+        <img src='assets/images/graficoNFR.png'>
+    </a>
+    <figcaption align='center'>
+        <b>Gráfico</b>
+        <br>
+        <small>Fonte: Autor</small>
+    </figcaption>
+</p>
+
 
 
 

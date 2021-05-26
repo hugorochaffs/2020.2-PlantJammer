@@ -38,6 +38,17 @@ Nota-se a falta da especificação dos casos de uso junto do diagrama de caso de
 | NÃO fornece detalhes sobre a interface do usuário ou sobre as telas | Sim | O diagrama forncece apenas a sequência lógica das tarefas
 | Especifica os casos de uso | **Não** | Existe a nessidade de se especificar em texto cada caso de uso, descrevendo quem são os atores, fluxos e condições |
 
+<p align='center'>
+    <a href='assets/images/graficoCasosDeUso.png' target='_blank'>
+        <img src='assets/images/graficoCasosDeUso.png'>
+    </a>
+    <figcaption align='center'>
+        <b>Gráfico</b>
+        <br>
+        <small>Fonte: Autor</small>
+    </figcaption>
+</p>
+
 ## Referências
 
 USE CASES. Em: USABILITY. Disponível em: <https://www.usability.gov/how-to-and-tools/methods/use-cases.html>. Acesso em 28 Mar. 2021.

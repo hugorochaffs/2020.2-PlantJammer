@@ -29,6 +29,17 @@ Baseando-se na própria descrição da metodologia adotada no documento de _back
 
 Através da inspeção realizada, concluiu-se que o documento está sim de acordo com o _template_ adotado pelo mesmo, e que até então nenhuma alteração será necessária.
 
+<p align='center'>
+    <a href='assets/images/graficoBacklog.png' target='_blank'>
+        <img src='assets/images/graficoBacklog.png'>
+    </a>
+    <figcaption align='center'>
+        <b>Gráfico</b>
+        <br>
+        <small>Fonte: Autor</small>
+    </figcaption>
+</p>
+
 ## Referências e Bibliografia
 
 1. SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
