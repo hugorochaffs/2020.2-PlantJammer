@@ -37,17 +37,25 @@ O objetivo desse documento é apresentar as principais funcionalidades do sistem
 
 ### Casos de Uso Cadastros via email e conta Google
 
-<p align='center'>
-    <a href='assets/images/user-cases-cad.png' target='_blank'>
-        <img src='assets/images/user-cases-cad.png'>
-    </a>
-    <figcaption align='center'>
-        <b>Figura 2: Diagrama de caso de usos de cadastros</b>
-        <br>
-        <small>Fonte: Autor</small>
-    </figcaption>
-</p>
+|Cadastro de usuário utilizando E-mail| Author: *Hugo Rocha* |
+| :- | :- |
+| **Objetivo** | O ator deve poder se cadastrar utilizando-se de seu email. |
+| **Atores** | Usuário |
+| **Pré condição** |O usuário deve ter email válido|
+| **Pós condição** |É criado um novo perfil para o usuário|
+| **Fluxo principal** | 1. O ator acessa o aplicativo do Plant Jammer </br></br> 2. O ator seleciona seu objetivo no aplicativo (Comer mais vegetais, Esvaziar a geladeira, Descobrir novas receitas, Comer comidas saudáveis)</br></br> 3. O ator seleciona se possui alguma restrição alimentar (Alergias, intolerâncias, etc)</br></br>4. O ator seleciona seus pratos favoritos (Macarrão, Lasanhas, etc)</br></br>5. O ator seleciona a linguagem do app e a unidade de medida</br></br>6. O ator insere nome, email e senha e seleciona o botão "Create user"</br></br> 7. A aplicativo inicia o modo Tour, onde será explicado e explorado as funcionalidades do aplicativo</br></br> |
+| **Fluxo excepcional 1** | 1. O ator acessa o aplicativo do Plant Jammer</br></br>2.  O ator seleciona seu objetivo no aplicativo (Comer mais vegetais, Esvaziar a geladeira, Descobrir novas receitas, Comer comidas saudáveis)</br></br>3. O ator seleciona se possui alguma restrição alimentar (Alergias, intolerâncias, etc)</br></br>4.  O ator seleciona seus pratos favoritos (Macarrão, Lasanhas, etc)</br></br>5.  O ator seleciona a linguagem do app e a unidade de medida</br></br>6.  O ator insere nome, email e senha e seleciona o botão "Create user", porém seu email já encontra-se cadastrado</br></br> 7.  O aplicativo retorna um erro, informando que seu email já encontra-se cadastrado. </br></br>8. O ator é redirecionado para a página de login.</br></br>|
+| **Fluxo excepcional 2** | 1. O ator acessa o aplicativo do Plant Jammer</br></br>2.  O ator seleciona seu objetivo no aplicativo (Comer mais vegetais, Esvaziar a geladeira, Descobrir novas receitas, Comer comidas saudáveis)</br></br>3.  O ator seleciona se possui alguma restrição alimentar (Alergias, intolerâncias, etc)</br></br>4.  O ator seleciona seus pratos favoritos (Macarrão, Lasanhas, etc)</br></br>5.  O ator seleciona a linguagem do app e a unidade de medida</br></br>6.   O ator insere nome, email e senha e seleciona o botão "Create user", porem algum dos dados não é válido</br></br>7.  O ator é redirecionado novamente para a página de cadastro.</br></br> |
 
+|Cadastro de usuário utilizando conta Google| Author: *Hugo Rocha*|
+| :- | :- |
+| **Objetivo** | O ator deve poder se cadastrar utilizando-se de sua conta Google. |
+| **Atores** | Usuário |
+| **Pré condição** |O usuário deve ter uma conta Google ativa.|
+| **Pós condição** |É criado um novo perfil para o usuário.|
+| **Fluxo principal** | 1. O ator acessa o aplicativo do Plant Jammer </br></br> 2. O ator seleciona seu objetivo no aplicativo (Comer mais vegetais, Esvaziar a geladeira, Descobrir novas receitas, Comer comidas saudáveis)</br></br> 3. O ator seleciona se possui alguma restrição alimentar (Alergias, intolerâncias, etc)</br></br>4. O ator seleciona seus pratos favoritos (Macarrão, Lasanhas, etc)</br></br>5. O ator seleciona a linguagem do app e a unidade de medida</br></br>6. O ator clica em registrar-se com Google</br></br> 7. O aplicativo redireciona o ator para a página de login do Google para a realização do login.</br></br>8. O aplicativo inicia o modo Tour, onde será explicado e explorado as funcionalidades do aplicativo.  |
+| **Fluxo excepcional 1** | 1. O ator acessa o aplicativo do Plant Jammer</br></br>2.  O ator seleciona seu objetivo no aplicativo (Comer mais vegetais, Esvaziar a geladeira, Descobrir novas receitas, Comer comidas saudáveis)</br></br>3. O ator seleciona se possui alguma restrição alimentar (Alergias, intolerâncias, etc)</br></br>4.  O ator seleciona seus pratos favoritos (Macarrão, Lasanhas, etc)</br></br>5.  O ator seleciona a linguagem do app e a unidade de medida</br></br>6.  O ator clica em registrar-se com Google, porém sua conta já está cadastrada</br></br> 7.  O aplicativo retorna um erro, informando que sua conta já está vinculada a uma conta Plant Jammer ativa, e deve ser feito o login. </br></br>8. O ator é redirecionado para a página de login.</br></br>|
+| **Fluxo excepcional 2** | 1. O ator acessa o aplicativo do Plant Jammer</br></br>2.  O ator seleciona seu objetivo no aplicativo (Comer mais vegetais, Esvaziar a geladeira, Descobrir novas receitas, Comer comidas saudáveis)</br></br>3.  O ator seleciona se possui alguma restrição alimentar (Alergias, intolerâncias, etc)</br></br>4.  O ator seleciona seus pratos favoritos (Macarrão, Lasanhas, etc)</br></br>5.  O ator seleciona a linguagem do app e a unidade de medida</br></br>6.   O ator clica em registrar-se com o Google, porém não tem uma conta Google válida.</br></br>7.  O ator é redirecionado novamente para a página de cadastro.</br></br> |
 
 ## 5. Conclusão
 
