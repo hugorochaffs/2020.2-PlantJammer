@@ -5,6 +5,7 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 28/03/2021 |  0.1   | Criação do documento | Victor Jorge  |
 | 28/03/2021 |  0.2   | Revisão do documento | João Victor  |
+| 26/05/2021 |  0.3   | Adição dos Gráficos | Hugo Rocha  |
 
 <div align="justify">
 
