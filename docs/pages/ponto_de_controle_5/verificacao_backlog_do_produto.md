@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 08/04/2021 |  0.1   | Criação do documento | Victor Jorge  |
+| 26/05/2021 |  0.2   | Adição dos Gráficos | Hugo Rocha  |
 
 ## Introdução
 
