@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 15/04/2021 |  0.1  | Criação do documento | Leonardo Gomes |
+| 27/05/2021 |  0.2   | Adição do gráfico de conclusão | Leonardo Gomes  |
 
 <div align="justify">
 
