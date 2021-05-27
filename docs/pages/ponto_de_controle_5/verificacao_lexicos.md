@@ -235,9 +235,57 @@ Dessa forma, o objetivo primário dessa verificação será analisar se os símb
 Após a verificação do [documento de léxicos](pages/ponto_de_controle_3/lexico_v1.md), utilizando o checklist, foram encontrados:
 
 * 1 erros de sinônimos não definidos.
+
+<p align='center'>
+    <a href='assets/images/graficoLexicosSinonimos.png' target='_blank'>
+        <img src='assets/images/graficoLexicosSinonimos.png'>
+    </a>
+    <figcaption align='center'>
+        <b>Gráfico</b>
+        <br>
+        <small>Fonte: Autor</small>
+    </figcaption>
+</p>
+
 * 18 erros de noções com definições incompletas ou incorretas.
+
+<p align='center'>
+    <a href='assets/images/graficoLexicosNocoes.png' target='_blank'>
+        <img src='assets/images/graficoLexicosNocoes.png'>
+    </a>
+    <figcaption align='center'>
+        <b>Gráfico</b>
+        <br>
+        <small>Fonte: Autor</small>
+    </figcaption>
+</p>
+
 * 19 erros de impactos com definições incompletas ou incorretas.
+
+<p align='center'>
+    <a href='assets/images/graficoLexicosImpactos.png' target='_blank'>
+        <img src='assets/images/graficoLexicosImpactos.png'>
+    </a>
+    <figcaption align='center'>
+        <b>Gráfico</b>
+        <br>
+        <small>Fonte: Autor</small>
+    </figcaption>
+</p>
+
 * 4 erros de classificações incorretas.
+
+<p align='center'>
+    <a href='assets/images/graficoLexicosClassificacao.png' target='_blank'>
+        <img src='assets/images/graficoLexicosClassificacao.png'>
+    </a>
+    <figcaption align='center'>
+        <b>Gráfico</b>
+        <br>
+        <small>Fonte: Autor</small>
+    </figcaption>
+</p>
+
 
 Após a identificação de tais erros será possível elaborar a [segunda versão do documento de léxicos](pages/ponto_de_controle_3/lexico.md)
 
