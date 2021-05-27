@@ -27,6 +27,7 @@
   - [Caso de Uso](pages/ponto_de_controle_3/caso-de-uso.md)
   - [Cenários](pages/ponto_de_controle_3/cenarios.md)
   - [NFR Framework](pages/ponto_de_controle_4/nfr-framework.md)
+  - [iStar Framework](pages/ponto_de_controle_4/istar-framework.md)
   - [Backlog do Produto](pages/ponto_de_controle_4/backlog.md)
 
 - [Análise](pages/ponto_de_controle_5/verificacao_especificacao.md)
